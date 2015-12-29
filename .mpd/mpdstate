@@ -1,8 +1,6 @@
 sw_volume: 96
 audio_device_state:1:my_alsa
-state: play
-current: 8
-time: 119.977000
+state: stop
 random: 0
 repeat: 0
 single: 0
@@ -108,4 +106,8 @@ playlist_begin
 94:SBTRKT - Temporary View (feat. Sampha).mp3
 95:Tyler, The Creator - Seven.mp3
 96:Tyler, The Creator - Odd Toddlers Featuring Casey Veggies.mp3
+97:Chief Keef - Flattered (DatPiff Exclusive).mp3
+98:Chief Keef - Gettin Wild (DatPiff Exclusive).mp3
+99:Future - Lil One.mp3
+100:Future - Where Ya At (feat. Drake).mp3
 playlist_end
