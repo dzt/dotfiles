@@ -1,4 +1,4 @@
-feh --bg-scale ~/.config/i3/wallpapers/bsnJGLT.jpg
+feh --bg-scale ~/wallpaper.jpg
 xrdb -merge ~/.Xresources
 exec i3
 
