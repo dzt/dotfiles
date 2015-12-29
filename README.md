@@ -16,5 +16,5 @@
 * Text Editor: [Vim](https://github.com/neovim/neovim)
 * Music Player: [Mpd](http://www.musicpd.org/) + [ncmpcpp](http://ncmpcpp.rybczak.net/)
 * Browser: Chromium
-
+* [Wallpaper](wallpaper.jpg)
 
