@@ -17,4 +17,6 @@
 * Music Player: [Mpd](http://www.musicpd.org/) + [ncmpcpp](http://ncmpcpp.rybczak.net/)
 * Browser: Chromium
 * [Wallpaper](wallpaper.jpg)
-* Bar: i3bar w/ Conky [(screenshot)](shots/6.png) 
+* Bar: i3bar w/ Conky [(screenshot)](shots/6.png)
+* Slack Client: [plaidchat](https://github.com/plaidchat/plaidchat)
+* IRC Client: [weechat](https://weechat.org/)
