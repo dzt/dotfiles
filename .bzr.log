@@ -1,0 +1,60 @@
+
+this is a debug log for diagnosing/reporting problems in bzr
+you can delete or truncate this file, or include sections in
+bug reports to https://bugs.launchpad.net/bzr/+filebug
+
+Wed 2015-12-30 15:44:38 -0500
+0.288  bazaar version: 2.6.0
+0.289  bzr arguments: [u'co', u'lp:shutter', u'trunk']
+0.344  looking for plugins in /home/sativa/.bazaar/plugins
+0.344  looking for plugins in /usr/lib/python2.7/site-packages/bzrlib/plugins
+0.360  encoding stdout as sys.stdout encoding 'ANSI_X3.4-1968'
+[ 4156] 2015-12-30 15:44:39.744 WARNING: You have not informed bzr of your Launchpad ID, and you must do this to
+write to Launchpad or access private data.  See "bzr help launchpad-login".
+4.893  creating repository in file:///home/sativa/Downloads/shutter-bzr/src/trunk/.bzr/.
+4.996  creating branch <bzrlib.branch.BzrBranchFormat7 object at 0x7fca80477890> in file:///home/sativa/Downloads/shutter-bzr/src/trunk/
+8.540  Using fetch logic to copy between CHKInventoryRepository('http://bazaar.launchpad.net/~mario-kemper/shutter/devel/.bzr/repository/')(RepositoryFormat2a()) and CHKInventoryRepository('file:///home/sativa/Downloads/shutter-bzr/src/trunk/.bzr/repository/')(RepositoryFormat2a())
+8.540  fetching: <SearchResult search:(set(['mario.kemper@googlemail.com-20141223230202-b58zlfo5qb5e2cxt']), set(['null:']), 1360)>
+47.143  23 bytes left on the HTTP socket
+63.354  23 bytes left on the HTTP socket
+68.778  23 bytes left on the HTTP socket
+75.041  23 bytes left on the HTTP socket
+106.009  23 bytes left on the HTTP socket
+116.349  23 bytes left on the HTTP socket
+123.059  23 bytes left on the HTTP socket
+152.087  23 bytes left on the HTTP socket
+162.247  23 bytes left on the HTTP socket
+173.774  23 bytes left on the HTTP socket
+184.627  23 bytes left on the HTTP socket
+190.848  23 bytes left on the HTTP socket
+192.889  23 bytes left on the HTTP socket
+193.749  23 bytes left on the HTTP socket
+194.697  23 bytes left on the HTTP socket
+196.246  23 bytes left on the HTTP socket
+199.373  23 bytes left on the HTTP socket
+201.336  23 bytes left on the HTTP socket
+234.320  23 bytes left on the HTTP socket
+255.283  23 bytes left on the HTTP socket
+263.414  23 bytes left on the HTTP socket
+268.378  23 bytes left on the HTTP socket
+277.640  23 bytes left on the HTTP socket
+284.142  23 bytes left on the HTTP socket
+314.637  23 bytes left on the HTTP socket
+325.529  23 bytes left on the HTTP socket
+326.544  23 bytes left on the HTTP socket
+329.756  23 bytes left on the HTTP socket
+332.278  23 bytes left on the HTTP socket
+344.676  23 bytes left on the HTTP socket
+356.109  23 bytes left on the HTTP socket
+365.646  23 bytes left on the HTTP socket
+377.294  23 bytes left on the HTTP socket
+390.288  23 bytes left on the HTTP socket
+400.469  23 bytes left on the HTTP socket
+407.495  23 bytes left on the HTTP socket
+433.128  23 bytes left on the HTTP socket
+437.287  23 bytes left on the HTTP socket
+439.005  23 bytes left on the HTTP socket
+447.240  23 bytes left on the HTTP socket
+453.543  23 bytes left on the HTTP socket
+506.330  23 bytes left on the HTTP socket
+555.553  23 bytes left on the HTTP socket

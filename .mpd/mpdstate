@@ -1,8 +1,9 @@
-sw_volume: 1
+sw_volume: 0
 audio_device_state:1:alsa
+audio_device_state:1:My PULSE Device
 state: play
-current: 52
-time: 96.641000
+current: 23
+time: 137.301000
 random: 0
 repeat: 0
 single: 0
