@@ -1,6 +1,8 @@
-sw_volume: 96
-audio_device_state:1:my_alsa
-state: stop
+sw_volume: 1
+audio_device_state:1:alsa
+state: pause
+current: 41
+time: 8.115000
 random: 0
 repeat: 0
 single: 0
@@ -110,4 +112,107 @@ playlist_begin
 98:Chief Keef - Gettin Wild (DatPiff Exclusive).mp3
 99:Future - Lil One.mp3
 100:Future - Where Ya At (feat. Drake).mp3
+101:Future - Slave Master.mp3
+102:Future - Slave Master.mp3
+103:Future - Slave Master.mp3
+104:Future - Slave Master.mp3
+105:Future - Lil One.mp3
+106:Future - Freak Hoe.mp3
+107:Future - Freak Hoe.mp3
+108:Future - Rotation.mp3
+109:Future - Slave Master.mp3
+110:Future - Slave Master.mp3
+111:Future - Slave Master.mp3
+112:Future - Blow a Bag.mp3
+113:BONES - PaleEarnhardt.mp3
+114:BONES - ArtesianWater.mp3
+115:BONES - DeadBoy.mp3
+116:BONES - TheGreatSnowfallOf82.mp3
+117:BONES - Wi-Fi.mp3
+118:BONES - 1968.mp3
+119:BONES - Lightning.mp3
+120:BONES - Sixteen.mp3
+121:BONES - WhiteLinenSheets.mp3
+122:BONES - ConnectionLost.mp3
+123:BONES - Calcium.mp3
+124:BONES - Virus.mp3
+125:BONES - ReturnOfThePimp.mp3
+126:BONES - Butterfly.mp3
+127:BONES - MyFavoriteColorIsRain_1.mp3
+128:BONES - MyFavoriteColorIsRain.mp3
+129:BONES - LinksysBroadbandRouter.mp3
+130:BONES - LayMeInTheRiver.mp3
+131:BONES - Trash (Feat. Xavier Wulf).mp3
+132:BONES - OrderWhatYouWantIWillTakeThePepperonisOff.mp3
+133:BONES - EveryAlbumHasAnInterludeSoThisIsMine.mp3
+134:BONES - SearchingForService (Feat. Chris Travis).mp3
+135:BONES - FreeComplimentaryGiftWithPurchase.mp3
+136:BONES - Corduroy.mp3
+137:BONES - IfYouHadAZuneIHateYou (Feat. Spooky Black).mp3
+138:BONES - .Exe.mp3
+139:BONES - YouCanTellAlotAboutAManByTheNeckOfHisShirt.mp3
+140:BONES - PayPal (Feat. Eddy Baker).mp3
+141:BONES - HeartagramAdios.mp3
+142:BONES - (BONUS) CheddarBob.mp3
+143:Blackbear - 4U.mp3
+144:Blackbear - I Needed You.mp3
+145:Blackbear - Ain't Trippin.mp3
+146:Blackbear - 90210 (feat. G-Eazy).mp3
+147:Blackbear - Ain't Love.mp3
+148:Blackbear - Idfc.mp3
+149:Blackbear - Waste Away (feat. Devon Baldwin).mp3
+150:Blackbear - Dirty Laundry.mp3
+151:Blackbear - My Heart Is Lost.mp3
+152:Blackbear - Deadroses.mp3
+153:Chief Keef - Stuntin Like My Mama (DatPiff Exclusive).mp3
+154:Chief Keef - Foes (DatPiff Exclusive).mp3
+155:Chief Keef - Black Ops (DatPiff Exclusive).mp3
+156:Chief Keef - Law & Order (DatPiff Exclusive).mp3
+157:Chief Keef - Who Dat (DatPiff Exclusive).mp3
+158:Chief Keef - Obama (DatPiff Exclusive).mp3
+159:Chief Keef - Flattered (DatPiff Exclusive).mp3
+160:Chief Keef - Gettin Wild (DatPiff Exclusive).mp3
+161:Chief Keef - Get Your Mind Right (DatPiff Exclusive).mp3
+162:Chief Keef - Chicago Zoo (DatPiff Exclusive).mp3
+163:Chief Keef - Early Morning Getting It (DatPiff Exclusive).mp3
+164:Chief Keef - Im Da Man (DatPiff Exclusive).mp3
+165:Chief Keef - X (DatPiff Exclusive).mp3
+166:Chief Keef - In Your Face (DatPiff Exclusive).mp3
+167:Chief Keef - Flex (DatPiff Exclusive).mp3
+168:Chief Keef - Dismiss (DatPiff Exclusive).mp3
+169:Chief Keef - Jumanji (DatPiff Exclusive).mp3
+170:Chief Keef - Where Ya At (DatPiff Exclusive).mp3
+171:Curren$y - What It Look Like.mp3
+172:Curren$y - Privacy Glass.mp3
+173:Curren$y - Armoire.mp3
+174:Curren$y - Take You There.mp3
+175:Curren$y - Showroom.mp3
+176:Curren$y - Capitol.mp3
+177:Curren$y - No Squares.mp3
+178:Curren$y - Sunroof.mp3
+179:Curren$y - Chasin' Papers.mp3
+180:Curren$y - That's The Thing.mp3
+181:Curren$y - Chandelier.mp3
+182:Curren$y - Fast Cars Faster Women.mp3
+183:Curren$y - Jet Life.mp3
+184:Curren$y - Audio Dope 3.mp3
+185:Curren$y - One More Time.mp3
+186:Curren$y - J.L.R..mp3
+187:Currensy - Rhymes Like Weight.mp3
+188:Currensy - Fully Loaded.mp3
+189:Currensy - Fully Loaded.mp3
+190:Currensy - Fully Loaded.mp3
+191:Currensy - Fully Loaded.mp3
+192:Currensy - Fully Loaded.mp3
+193:Freddie Gibbs - Basketball Wives.mp3
+194:Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3
+195:Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3
+196:Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3
+197:BONES - ArtesianWater.mp3
+198:BONES - (BONUS) CheddarBob.mp3
+199:BONES - (BONUS) CheddarBob.mp3
+200:BONES - (BONUS) CheddarBob.mp3
+201:BONES - .Exe.mp3
+202:BONES - 1968.mp3
+203:BONES - HeartagramAdios.mp3
 playlist_end

@@ -1,0 +1,8 @@
+{
+    "settings": {
+        "key": "live_23668713_cWQyw5lMB1u9a40TObyMx3QzSIMmN2",
+        "server": "rtmp://live-jfk.twitch.tv/app",
+        "service": "Twitch"
+    },
+    "type": "rtmp_common"
+}

@@ -348,3 +348,742 @@ Dec 29 06:40 : player: played "Chief Keef - Flex (DatPiff Exclusive).mp3"
 Dec 29 06:40 : player: played "Chief Keef - Gettin Wild (DatPiff Exclusive).mp3"
 Dec 29 06:40 : player: played "Future - Lil One.mp3"
 Dec 29 06:43 : player: played "Future - Where Ya At (feat. Drake).mp3"
+Dec 29 13:11 : player: played "Future - Slave Master.mp3"
+Dec 29 13:11 : player: played "Future - Slave Master.mp3"
+Dec 29 13:11 : player: played "Future - Slave Master.mp3"
+Dec 29 13:14 : player: played "Future - Slave Master.mp3"
+Dec 29 13:17 : player: played "Future - Slave Master.mp3"
+Dec 29 13:20 : player: played "Currensy - Fully Loaded.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:48 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:48 : output: Failed to open audio output
+Dec 29 13:48 : player: problems opening audio device while playing "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 13:48 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:48 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:48 : output: Failed to open audio output
+Dec 29 13:48 : player: problems opening audio device while playing "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 13:48 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:48 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:48 : output: Failed to open audio output
+Dec 29 13:48 : player: problems opening audio device while playing "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 13:48 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:48 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:48 : output: Failed to open audio output
+Dec 29 13:48 : player: problems opening audio device while playing "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 13:48 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:48 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:48 : output: Failed to open audio output
+Dec 29 13:48 : player: problems opening audio device while playing "BONES - ArtesianWater.mp3"
+Dec 29 13:49 : player: played "BONES - ArtesianWater.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "BONES - (BONUS) CheddarBob.mp3"
+Dec 29 13:49 : player: played "BONES - (BONUS) CheddarBob.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "BONES - (BONUS) CheddarBob.mp3"
+Dec 29 13:49 : client: [2] opened from 127.0.0.1:46080
+Dec 29 13:49 : player: played "BONES - (BONUS) CheddarBob.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "BONES - ArtesianWater.mp3"
+Dec 29 13:49 : player: played "BONES - ArtesianWater.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "BONES - ArtesianWater.mp3"
+Dec 29 13:49 : player: played "BONES - ArtesianWater.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "BONES - ArtesianWater.mp3"
+Dec 29 13:49 : player: played "BONES - ArtesianWater.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "Chief Keef - Obama (DatPiff Exclusive).mp3"
+Dec 29 13:49 : player: played "Chief Keef - Obama (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "Chief Keef - Obama (DatPiff Exclusive).mp3"
+Dec 29 13:49 : player: played "Chief Keef - Obama (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "Chief Keef - Obama (DatPiff Exclusive).mp3"
+Dec 29 13:49 : player: played "Chief Keef - Obama (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "Chief Keef - Obama (DatPiff Exclusive).mp3"
+Dec 29 13:49 : player: played "Chief Keef - Obama (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:49 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:49 : output: Failed to open audio output
+Dec 29 13:49 : player: problems opening audio device while playing "Chief Keef - Obama (DatPiff Exclusive).mp3"
+Dec 29 13:50 : player: played "Chief Keef - Obama (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:50 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:50 : output: Failed to open audio output
+Dec 29 13:50 : player: problems opening audio device while playing "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+Dec 29 13:50 : player: played "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:50 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:50 : output: Failed to open audio output
+Dec 29 13:50 : player: problems opening audio device while playing "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+Dec 29 13:50 : player: played "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:50 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:50 : output: Failed to open audio output
+Dec 29 13:50 : player: problems opening audio device while playing "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+Dec 29 13:50 : player: played "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:50 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:50 : output: Failed to open audio output
+Dec 29 13:50 : player: problems opening audio device while playing "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+Dec 29 13:50 : player: played "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:50 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:50 : output: Failed to open audio output
+Dec 29 13:50 : player: problems opening audio device while playing "Blackbear - 4U.mp3"
+Dec 29 13:52 : client: [1] closed
+Dec 29 13:52 : player: played "Blackbear - 4U.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:52 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:52 : output: Failed to open audio output
+Dec 29 13:52 : player: problems opening audio device while playing "BONES - OrderWhatYouWantIWillTakeThePepperonisOff.mp3"
+Dec 29 13:55 : player: played "BONES - OrderWhatYouWantIWillTakeThePepperonisOff.mp3"
+Dec 29 13:55 : client: [0] opened from 127.0.0.1:46246
+Dec 29 13:55 : client: [1] opened from 127.0.0.1:46248
+Dec 29 13:56 : player: played "BONES - OrderWhatYouWantIWillTakeThePepperonisOff.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:56 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:56 : output: Failed to open audio output
+Dec 29 13:56 : player: problems opening audio device while playing "Future - Blow a Bag.mp3"
+Dec 29 13:56 : player: played "Future - Blow a Bag.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:56 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:56 : output: Failed to open audio output
+Dec 29 13:56 : player: problems opening audio device while playing "Future - Blow a Bag.mp3"
+Dec 29 13:56 : player: played "Future - Blow a Bag.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 13:56 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 13:56 : output: Failed to open audio output
+Dec 29 13:56 : player: problems opening audio device while playing "Future - Blow a Bag.mp3"
+Dec 29 14:00 : client: [1] closed
+Dec 29 14:00 : client: [0] closed
+Dec 29 14:00 : client: [2] opened from 127.0.0.1:46346
+Dec 29 14:00 : player: played "Future - Blow a Bag.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 14:00 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 14:00 : output: Failed to open audio output
+Dec 29 14:00 : player: problems opening audio device while playing "Future - Blow a Bag.mp3"
+Dec 29 14:00 : player: played "Future - Blow a Bag.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 14:00 : alsa_output: Failed to open "my_alsa" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 14:00 : output: Failed to open audio output
+Dec 29 14:00 : player: problems opening audio device while playing "Future - Blow a Bag.mp3"
+Dec 29 14:00 : player: played "Future - Blow a Bag.mp3"
+Dec 29 14:08 : config: option 'mixer_control' on line 17 was not recognized
+Dec 29 14:08 : client: [0] opened from 127.0.0.1:47298
+Dec 29 14:08 : player: played "BONES - MyFavoriteColorIsRain.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 14:08 : alsa_output: Failed to open "My ALSA Device" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 14:08 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:08 : output: Failed to open audio output
+Dec 29 14:08 : player: problems opening audio device while playing "BONES - MyFavoriteColorIsRain.mp3"
+Dec 29 14:08 : player: played "BONES - MyFavoriteColorIsRain.mp3"
+Dec 29 14:08 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:08 : output: Failed to open audio output
+Dec 29 14:08 : player: problems opening audio device while playing "BONES - Sixteen.mp3"
+Dec 29 14:08 : player: played "BONES - Sixteen.mp3"
+Dec 29 14:08 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:08 : output: Failed to open audio output
+Dec 29 14:08 : player: problems opening audio device while playing "BONES - 1968.mp3"
+Dec 29 14:08 : player: played "BONES - 1968.mp3"
+Dec 29 14:08 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:08 : output: Failed to open audio output
+Dec 29 14:08 : player: problems opening audio device while playing "BONES - Wi-Fi.mp3"
+Dec 29 14:08 : player: played "BONES - Wi-Fi.mp3"
+Dec 29 14:08 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:08 : output: Failed to open audio output
+Dec 29 14:08 : player: problems opening audio device while playing "BONES - ArtesianWater.mp3"
+Dec 29 14:09 : player: played "BONES - ArtesianWater.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 14:09 : alsa_output: Failed to open "My ALSA Device" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 14:09 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:09 : output: Failed to open audio output
+Dec 29 14:09 : player: problems opening audio device while playing "BONES - ArtesianWater.mp3"
+Dec 29 14:13 : player: played "BONES - ArtesianWater.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 14:13 : alsa_output: Failed to open "My ALSA Device" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 14:13 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:13 : output: Failed to open audio output
+Dec 29 14:13 : player: problems opening audio device while playing "BONES - DeadBoy.mp3"
+Dec 29 14:13 : player: played "BONES - DeadBoy.mp3"
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+Dec 29 14:13 : alsa_output: Failed to open "My ALSA Device" [alsa]: Failed to open ALSA device "default": Device or resource busy
+Dec 29 14:13 : pulse_output: Failed to open "Pulse Device" [pulse]: failed to connect: Connection refused
+Dec 29 14:13 : output: Failed to open audio output
+Dec 29 14:13 : player: problems opening audio device while playing "BONES - Sixteen.mp3"
+Dec 29 14:13 : client: [0] closed
+Dec 29 14:13 : client: [1] opened from 127.0.0.1:47474
+Dec 29 14:13 : client: [1] closed
+Dec 29 14:13 : player: played "BONES - Sixteen.mp3"
+Dec 29 14:13 : client: [0] opened from 127.0.0.1:47496
+Dec 29 14:13 : alsa_mixer: Failed to read mixer for 'mpd output': no such mixer control: PCM
+Dec 29 14:14 : player: played "BONES - Sixteen.mp3"
+Dec 29 14:14 : output: Failed to open mixer for 'mpd output'
+Dec 29 14:14 : player: played "BONES - WhiteLinenSheets.mp3"
+Dec 29 14:14 : player: played "BONES - ConnectionLost.mp3"
+Dec 29 14:14 : player: played "BONES - Calcium.mp3"
+Dec 29 14:14 : player: played "BONES - Butterfly.mp3"
+Dec 29 14:14 : player: played "BONES - MyFavoriteColorIsRain.mp3"
+Dec 29 14:15 : output: Failed to open audio output
+Dec 29 14:15 : player: played "BONES - Wi-Fi.mp3"
+Dec 29 14:15 : output: Failed to open mixer for 'mpd output'
+Dec 29 14:16 : player: played "BONES - ArtesianWater.mp3"
+Dec 29 14:16 : player: played "Chief Keef - Dismiss (DatPiff Exclusive).mp3"
+Dec 29 14:19 : client: [0] closed
+Dec 29 14:19 : player: played "Chief Keef - X (DatPiff Exclusive).mp3"
+Dec 29 14:19 : config: option 'mixer_device' on line 14 was not recognized
+Dec 29 14:19 : config: option 'mixer_control' on line 15 was not recognized
+Dec 29 14:19 : player: played "Chief Keef - X (DatPiff Exclusive).mp3"
+Dec 29 14:19 : client: [0] opened from 127.0.0.1:47630
+Dec 29 14:19 : player: played "Chief Keef - In Your Face (DatPiff Exclusive).mp3"
+Dec 29 14:20 : player: played "Chief Keef - Flex (DatPiff Exclusive).mp3"
+Dec 29 14:20 : player: played "Chief Keef - Flattered (DatPiff Exclusive).mp3"
+Dec 29 14:20 : client: [0] closed
+Dec 29 14:23 : player: played "Chief Keef - Get Your Mind Right (DatPiff Exclusive).mp3"
+Dec 29 14:23 : player: played "Chief Keef - Get Your Mind Right (DatPiff Exclusive).mp3"
+Dec 29 14:23 : client: [0] opened from 127.0.0.1:47700
+Dec 29 14:23 : player: played "Chief Keef - Chicago Zoo (DatPiff Exclusive).mp3"
+Dec 29 14:23 : output: Failed to open audio output
+Dec 29 14:25 : player: played "Chief Keef - Im Da Man (DatPiff Exclusive).mp3"
+Dec 29 14:29 : player: played "Freddie Gibbs - Mexico (feat. Tory Lanez).mp3"
+Dec 29 14:32 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 14:33 : output: Failed to open mixer for 'alsa'
+Dec 29 14:33 : client: [0] opened from 127.0.0.1:48118
+Dec 29 14:33 : client: [1] opened from 127.0.0.1:48124
+Dec 29 14:33 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 14:35 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 14:35 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 14:35 : player: played "Father - BET Uncut (feat. Richposlim).mp3"
+Dec 29 14:35 : output: Failed to open mixer for 'alsa'
+Dec 29 14:38 : player: played "Chief Keef - Jumanji (DatPiff Exclusive).mp3"
+Dec 29 14:39 : player: played "BONES - ArtesianWater.mp3"
+Dec 29 14:39 : output: Failed to open mixer for 'alsa'
+Dec 29 14:39 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 14:39 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 14:39 : output: Failed to open audio output
+Dec 29 14:39 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 14:39 : output: Failed to open mixer for 'alsa'
+Dec 29 14:40 : player: played "Chief Keef - Get Your Mind Right (DatPiff Exclusive).mp3"
+Dec 29 14:42 : player: played "Chief Keef - Im Da Man (DatPiff Exclusive).mp3"
+Dec 29 14:44 : player: played "Chief Keef - X (DatPiff Exclusive).mp3"
+Dec 29 14:47 : player: played "Chief Keef - In Your Face (DatPiff Exclusive).mp3"
+Dec 29 14:48 : client: [1] closed
+Dec 29 14:50 : player: played "Chief Keef - Flex (DatPiff Exclusive).mp3"
+Dec 29 14:54 : player: played "Chief Keef - Dismiss (DatPiff Exclusive).mp3"
+Dec 29 14:57 : player: played "Chief Keef - Jumanji (DatPiff Exclusive).mp3"
+Dec 29 14:59 : player: played "Chief Keef - Where Ya At (DatPiff Exclusive).mp3"
+Dec 29 14:59 : output: Failed to open mixer for 'alsa'
+Dec 29 15:03 : player: played "Father - BET Uncut (feat. Richposlim).mp3"
+Dec 29 15:03 : output: Failed to open mixer for 'alsa'
+Dec 29 15:05 : player: played "Chief Keef - Im Da Man (DatPiff Exclusive).mp3"
+Dec 29 15:05 : output: Failed to open mixer for 'alsa'
+Dec 29 15:09 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 15:13 : player: played "Freddie Gibbs - Lately.mp3"
+Dec 29 15:16 : player: played "Father - Back in the _a_ Freestyle_on Me.mp3"
+Dec 29 15:20 : player: played "Freddie Gibbs - Cold Ass Nigga.mp3"
+Dec 29 15:20 : output: Failed to open mixer for 'alsa'
+Dec 29 15:22 : player: played "Madvillain - All Caps.mp3"
+Dec 29 15:22 : output: Failed to open mixer for 'alsa'
+Dec 29 15:26 : player: played "Freddie Gibbs - Mexico (feat. Tory Lanez).mp3"
+Dec 29 15:30 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 15:34 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 15:38 : player: played "Freddie Gibbs - Insecurities.mp3"
+Dec 29 15:42 : player: played "Father - BET Uncut (feat. Richposlim).mp3"
+Dec 29 15:45 : player: played "Father - BET Uncut (feat. Richposlim).mp3"
+Dec 29 15:45 : output: Failed to open mixer for 'alsa'
+Dec 29 15:49 : player: played "Chief Keef - Jumanji (DatPiff Exclusive).mp3"
+Dec 29 15:51 : player: played "BONES - ArtesianWater.mp3"
+Dec 29 15:53 : player: played "BONES - DeadBoy.mp3"
+Dec 29 15:54 : player: played "BONES - PaleEarnhardt.mp3"
+Dec 29 15:56 : player: played "BONES - Wi-Fi.mp3"
+Dec 29 15:58 : player: played "BONES - Lightning.mp3"
+Dec 29 16:00 : player: played "BONES - PaleEarnhardt.mp3"
+Dec 29 16:02 : player: played "BONES - ArtesianWater.mp3"
+Dec 29 16:04 : player: played "BONES - DeadBoy.mp3"
+Dec 29 16:06 : player: played "BONES - TheGreatSnowfallOf82.mp3"
+Dec 29 16:08 : player: played "BONES - Wi-Fi.mp3"
+Dec 29 16:10 : player: played "BONES - 1968.mp3"
+Dec 29 16:12 : player: played "BONES - Lightning.mp3"
+Dec 29 16:14 : player: played "BONES - Sixteen.mp3"
+Dec 29 16:17 : player: played "BONES - WhiteLinenSheets.mp3"
+Dec 29 16:18 : player: played "BONES - ConnectionLost.mp3"
+Dec 29 16:21 : player: played "BONES - Calcium.mp3"
+Dec 29 16:24 : player: played "BONES - Virus.mp3"
+Dec 29 16:26 : player: played "BONES - ReturnOfThePimp.mp3"
+Dec 29 16:28 : player: played "BONES - Butterfly.mp3"
+Dec 29 16:28 : player: played "BONES - MyFavoriteColorIsRain_1.mp3"
+Dec 29 16:31 : player: played "BONES - MyFavoriteColorIsRain.mp3"
+Dec 29 16:32 : player: played "BONES - LinksysBroadbandRouter.mp3"
+Dec 29 16:35 : player: played "BONES - LayMeInTheRiver.mp3"
+Dec 29 16:37 : player: played "BONES - Trash (Feat. Xavier Wulf).mp3"
+Dec 29 16:38 : player: played "BONES - OrderWhatYouWantIWillTakeThePepperonisOff.mp3"
+Dec 29 16:39 : player: played "BONES - EveryAlbumHasAnInterludeSoThisIsMine.mp3"
+Dec 29 16:42 : player: played "BONES - SearchingForService (Feat. Chris Travis).mp3"
+Dec 29 16:44 : player: played "BONES - FreeComplimentaryGiftWithPurchase.mp3"
+Dec 29 16:46 : player: played "BONES - Corduroy.mp3"
+Dec 29 16:48 : player: played "BONES - IfYouHadAZuneIHateYou (Feat. Spooky Black).mp3"
+Dec 29 16:50 : player: played "BONES - .Exe.mp3"
+Dec 29 16:52 : player: played "BONES - YouCanTellAlotAboutAManByTheNeckOfHisShirt.mp3"
+Dec 29 16:54 : player: played "BONES - PayPal (Feat. Eddy Baker).mp3"
+Dec 29 16:56 : player: played "BONES - HeartagramAdios.mp3"
+Dec 29 16:58 : player: played "BONES - (BONUS) CheddarBob.mp3"
+Dec 29 17:01 : player: played "Freddie Gibbs & Madlib - Harold's.mp3"
+Dec 29 17:04 : player: played "Freddie Gibbs & Madlib - Uno.mp3"
+Dec 29 17:07 : player: played "SBTRKT - Temporary View (feat. Sampha).mp3"
+Dec 29 17:07 : client: [0] closed
+Dec 29 17:12 : player: played "Tyler, The Creator - Cherry Bomb.mp3"
+Dec 29 17:15 : player: played "Tyler, The Creator - Blowmyload.mp3"
+Dec 29 17:22 : player: played "Tyler, The Creator - 2Seater.mp3"
+Dec 29 17:23 : player: played "BONES - PaleEarnhardt.mp3"
+Dec 29 17:25 : player: played "BONES - Wi-Fi.mp3"
+Dec 29 17:29 : player: played "Curren$y - Showroom.mp3"
+Dec 29 17:33 : player: played "Curren$y - Take You There.mp3"
+Dec 29 17:38 : player: played "Curren$y - Capitol.mp3"
+Dec 29 17:43 : player: played "Curren$y - Capitol.mp3"
+Dec 29 17:48 : player: played "Curren$y - No Squares.mp3"
+Dec 29 17:53 : player: played "Curren$y - No Squares.mp3"
+Dec 29 17:58 : player: played "Curren$y - Chandelier.mp3"
+Dec 29 18:04 : player: played "Curren$y - Chandelier.mp3"
+Dec 29 18:09 : player: played "Curren$y - Chandelier.mp3"
+Dec 29 18:14 : player: played "Curren$y - Chandelier.mp3"
+Dec 29 18:18 : player: played "Curren$y - Fast Cars Faster Women.mp3"
+Dec 29 18:21 : player: played "Future - I Serve the Base.mp3"
+Dec 29 18:24 : player: played "Future - I Serve the Base.mp3"
+Dec 29 18:27 : player: played "Future - I Serve the Base.mp3"
+Dec 29 18:30 : player: played "Future - Stick Talk.mp3"
+Dec 29 18:33 : player: played "Future - Lil One.mp3"
+Dec 29 18:36 : player: played "Blackbear - 4U.mp3"
+Dec 29 18:40 : player: played "Blackbear - 90210 (feat. G-Eazy).mp3"
+Dec 29 18:44 : player: played "Blackbear - 90210 (feat. G-Eazy).mp3"
+Dec 29 18:47 : player: played "SBTRKT - Temporary View (feat. Sampha).mp3"
+Dec 29 18:50 : player: played "Tyler, The Creator - Seven.mp3"
+Dec 29 18:54 : player: played "Tyler, The Creator - Odd Toddlers Featuring Casey Veggies.mp3"
+Dec 29 18:58 : player: played "Chief Keef - Flattered (DatPiff Exclusive).mp3"
+Dec 29 19:01 : player: played "Chief Keef - Gettin Wild (DatPiff Exclusive).mp3"
+Dec 29 19:05 : player: played "Future - Lil One.mp3"
+Dec 29 19:08 : player: played "Future - Where Ya At (feat. Drake).mp3"
+Dec 29 19:11 : player: played "Future - Slave Master.mp3"
+Dec 29 19:15 : player: played "Future - Slave Master.mp3"
+Dec 29 19:18 : player: played "Future - Slave Master.mp3"
+Dec 29 19:21 : player: played "Future - Slave Master.mp3"
+Dec 29 19:25 : player: played "Future - Lil One.mp3"
+Dec 29 19:28 : player: played "Future - Freak Hoe.mp3"
+Dec 29 19:31 : player: played "Future - Freak Hoe.mp3"
+Dec 29 19:34 : player: played "Future - Rotation.mp3"
+Dec 29 19:37 : player: played "Future - Slave Master.mp3"
+Dec 29 19:40 : player: played "Future - Slave Master.mp3"
+Dec 29 19:44 : player: played "Future - Slave Master.mp3"
+Dec 29 19:47 : player: played "Future - Blow a Bag.mp3"
+Dec 29 19:48 : player: played "BONES - PaleEarnhardt.mp3"
+Dec 29 19:50 : player: played "BONES - ArtesianWater.mp3"
+Dec 29 19:53 : player: played "BONES - DeadBoy.mp3"
+Dec 29 19:55 : player: played "BONES - TheGreatSnowfallOf82.mp3"
+Dec 29 19:57 : player: played "BONES - Wi-Fi.mp3"
+Dec 29 19:59 : player: played "BONES - 1968.mp3"
+Dec 29 20:00 : player: played "BONES - Lightning.mp3"
+Dec 29 20:03 : player: played "BONES - Sixteen.mp3"
+Dec 29 20:06 : player: played "BONES - WhiteLinenSheets.mp3"
+Dec 29 20:07 : player: played "BONES - ConnectionLost.mp3"
+Dec 29 20:10 : player: played "BONES - Calcium.mp3"
+Dec 29 20:13 : player: played "BONES - Virus.mp3"
+Dec 29 20:15 : player: played "BONES - ReturnOfThePimp.mp3"
+Dec 29 20:17 : player: played "BONES - Butterfly.mp3"
+Dec 29 20:17 : player: played "BONES - MyFavoriteColorIsRain_1.mp3"
+Dec 29 20:19 : player: played "BONES - MyFavoriteColorIsRain.mp3"
+Dec 29 20:21 : player: played "BONES - LinksysBroadbandRouter.mp3"
+Dec 29 20:23 : player: played "BONES - LayMeInTheRiver.mp3"
+Dec 29 20:25 : player: played "BONES - Trash (Feat. Xavier Wulf).mp3"
+Dec 29 20:26 : player: played "BONES - OrderWhatYouWantIWillTakeThePepperonisOff.mp3"
+Dec 29 20:28 : player: played "BONES - EveryAlbumHasAnInterludeSoThisIsMine.mp3"
+Dec 29 20:31 : player: played "BONES - SearchingForService (Feat. Chris Travis).mp3"
+Dec 29 20:33 : player: played "BONES - FreeComplimentaryGiftWithPurchase.mp3"
+Dec 29 20:35 : player: played "BONES - Corduroy.mp3"
+Dec 29 20:37 : player: played "BONES - IfYouHadAZuneIHateYou (Feat. Spooky Black).mp3"
+Dec 29 20:39 : player: played "BONES - .Exe.mp3"
+Dec 29 20:41 : player: played "BONES - YouCanTellAlotAboutAManByTheNeckOfHisShirt.mp3"
+Dec 29 20:43 : player: played "BONES - PayPal (Feat. Eddy Baker).mp3"
+Dec 29 20:45 : player: played "BONES - HeartagramAdios.mp3"
+Dec 29 20:47 : player: played "BONES - (BONUS) CheddarBob.mp3"
+Dec 29 20:49 : player: played "Blackbear - 4U.mp3"
+Dec 29 20:52 : player: played "Blackbear - I Needed You.mp3"
+Dec 29 20:55 : player: played "Blackbear - Ain't Trippin.mp3"
+Dec 29 20:59 : player: played "Blackbear - 90210 (feat. G-Eazy).mp3"
+Dec 29 21:02 : player: played "Blackbear - Ain't Love.mp3"
+Dec 29 21:06 : player: played "Blackbear - Idfc.mp3"
+Dec 29 21:10 : player: played "Blackbear - Waste Away (feat. Devon Baldwin).mp3"
+Dec 29 21:12 : player: played "Blackbear - Dirty Laundry.mp3"
+Dec 29 21:16 : player: played "Blackbear - My Heart Is Lost.mp3"
+Dec 29 21:19 : player: played "Blackbear - Deadroses.mp3"
+Dec 29 21:22 : player: played "Chief Keef - Stuntin Like My Mama (DatPiff Exclusive).mp3"
+Dec 29 21:24 : player: played "Chief Keef - Foes (DatPiff Exclusive).mp3"
+Dec 29 21:28 : player: played "Chief Keef - Black Ops (DatPiff Exclusive).mp3"
+Dec 29 21:31 : player: played "Chief Keef - Law & Order (DatPiff Exclusive).mp3"
+Dec 29 21:35 : player: played "Chief Keef - Who Dat (DatPiff Exclusive).mp3"
+Dec 29 21:39 : player: played "Chief Keef - Obama (DatPiff Exclusive).mp3"
+Dec 29 21:42 : player: played "Chief Keef - Flattered (DatPiff Exclusive).mp3"
+Dec 29 21:46 : player: played "Chief Keef - Gettin Wild (DatPiff Exclusive).mp3"
+Dec 29 21:49 : player: played "Chief Keef - Get Your Mind Right (DatPiff Exclusive).mp3"
+Dec 29 21:53 : player: played "Chief Keef - Chicago Zoo (DatPiff Exclusive).mp3"
+Dec 29 21:56 : player: played "Chief Keef - Early Morning Getting It (DatPiff Exclusive).mp3"
+Dec 29 21:58 : player: played "Chief Keef - Im Da Man (DatPiff Exclusive).mp3"
+Dec 29 22:01 : player: played "Chief Keef - X (DatPiff Exclusive).mp3"
+Dec 29 22:04 : player: played "Chief Keef - In Your Face (DatPiff Exclusive).mp3"
+Dec 29 22:07 : player: played "Chief Keef - Flex (DatPiff Exclusive).mp3"
+Dec 29 22:10 : player: played "Chief Keef - Dismiss (DatPiff Exclusive).mp3"
+Dec 29 22:13 : player: played "Chief Keef - Jumanji (DatPiff Exclusive).mp3"
+Dec 29 22:16 : player: played "Chief Keef - Where Ya At (DatPiff Exclusive).mp3"
+Dec 29 22:20 : player: played "Curren$y - What It Look Like.mp3"
+Dec 29 22:24 : player: played "Curren$y - Privacy Glass.mp3"
+Dec 29 22:28 : player: played "Curren$y - Armoire.mp3"
+Dec 29 22:31 : player: played "Curren$y - Take You There.mp3"
+Dec 29 22:35 : player: played "Curren$y - Showroom.mp3"
+Dec 29 22:40 : player: played "Curren$y - Capitol.mp3"
+Dec 29 22:46 : player: played "Curren$y - No Squares.mp3"
+Dec 29 22:50 : player: played "Curren$y - Sunroof.mp3"
+Dec 29 22:54 : player: played "Curren$y - Chasin' Papers.mp3"
+Dec 29 22:58 : player: played "Curren$y - That's The Thing.mp3"
+Dec 29 23:03 : player: played "Curren$y - Chandelier.mp3"
+Dec 29 23:07 : player: played "Curren$y - Fast Cars Faster Women.mp3"
+Dec 29 23:10 : player: played "Curren$y - Jet Life.mp3"
+Dec 29 23:13 : player: played "Curren$y - Audio Dope 3.mp3"
+Dec 29 23:17 : player: played "Curren$y - One More Time.mp3"
+Dec 29 23:22 : player: played "Curren$y - J.L.R..mp3"
+Dec 29 23:24 : player: played "Currensy - Rhymes Like Weight.mp3"
+Dec 29 23:27 : player: played "Currensy - Fully Loaded.mp3"
+Dec 29 23:31 : player: played "Currensy - Fully Loaded.mp3"
+Dec 29 23:34 : player: played "Currensy - Fully Loaded.mp3"
+Dec 29 23:37 : player: played "Currensy - Fully Loaded.mp3"
+Dec 29 23:40 : player: played "Currensy - Fully Loaded.mp3"
+Dec 29 23:40 : output: Failed to open mixer for 'alsa'
+Dec 29 23:45 : player: played "Freddie Gibbs - Basketball Wives.mp3"
+Dec 29 23:48 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 23:52 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 23:55 : player: played "Freddie Gibbs - 10 Times (feat. Gucci Mane and E-40).mp3"
+Dec 29 23:55 : output: Failed to open mixer for 'alsa'
+Dec 29 23:57 : player: played "BONES - ArtesianWater.mp3"
+Dec 29 23:59 : player: played "BONES - (BONUS) CheddarBob.mp3"
+Dec 30 00:01 : player: played "BONES - (BONUS) CheddarBob.mp3"
+Dec 30 00:03 : player: played "BONES - (BONUS) CheddarBob.mp3"
+Dec 30 00:05 : player: played "BONES - .Exe.mp3"
+Dec 30 00:07 : player: played "BONES - 1968.mp3"
+Dec 30 00:09 : player: played "BONES - HeartagramAdios.mp3"
+Dec 30 01:54 : client: [2] opened from 127.0.0.1:57762
+Dec 30 02:16 : client: [3] opened from 127.0.0.1:59440
+Dec 30 02:16 : output: Failed to open mixer for 'alsa'
+Dec 30 02:16 : output: Failed to open audio output
+Dec 30 02:17 : client: [3] closed
+Dec 30 02:53 : client: [4] opened from 127.0.0.1:60434
+Dec 30 02:53 : client: [4] closed
+Dec 30 02:53 : client: [5] opened from 127.0.0.1:60438
+Dec 30 02:53 : client: [5] closed
+Dec 30 02:53 : client: [6] opened from 127.0.0.1:60442
+Dec 30 02:53 : client: [6] closed
+Dec 30 02:53 : client: [7] opened from 127.0.0.1:60446
+Dec 30 02:53 : client: [7] closed
+Dec 30 02:53 : client: [8] opened from 127.0.0.1:60450
+Dec 30 02:53 : client: [8] closed
+Dec 30 02:53 : client: [9] opened from 127.0.0.1:60454
+Dec 30 02:53 : client: [9] closed
+Dec 30 02:53 : client: [10] opened from 127.0.0.1:60458
+Dec 30 02:53 : client: [10] closed
+Dec 30 02:53 : client: [11] opened from 127.0.0.1:60462
+Dec 30 02:53 : client: [11] closed
+Dec 30 02:53 : client: [12] opened from 127.0.0.1:60466
+Dec 30 02:53 : client: [12] closed
+Dec 30 02:53 : client: [13] opened from 127.0.0.1:60470
+Dec 30 02:53 : client: [13] closed
+Dec 30 02:53 : client: [14] opened from 127.0.0.1:60474
+Dec 30 02:53 : client: [14] closed
+Dec 30 02:53 : client: [15] opened from 127.0.0.1:60478
+Dec 30 02:53 : client: [15] closed
+Dec 30 02:53 : client: [16] opened from 127.0.0.1:60482
+Dec 30 02:53 : client: [16] closed
+Dec 30 02:53 : client: [17] opened from 127.0.0.1:60486
+Dec 30 02:53 : client: [17] closed
+Dec 30 02:53 : client: [18] opened from 127.0.0.1:60490
+Dec 30 02:53 : client: [18] closed
+Dec 30 02:53 : client: [19] opened from 127.0.0.1:60494
+Dec 30 02:53 : client: [19] closed
+Dec 30 02:53 : client: [20] opened from 127.0.0.1:60498
+Dec 30 02:53 : client: [20] closed
+Dec 30 02:53 : client: [21] opened from 127.0.0.1:60502
+Dec 30 02:53 : client: [21] closed
+Dec 30 02:53 : client: [22] opened from 127.0.0.1:60506
+Dec 30 02:53 : client: [22] closed
+Dec 30 02:53 : client: [23] opened from 127.0.0.1:60510
+Dec 30 02:53 : client: [23] closed
+Dec 30 02:53 : client: [24] opened from 127.0.0.1:60514
+Dec 30 02:53 : client: [24] closed
+Dec 30 02:53 : client: [25] opened from 127.0.0.1:60518
+Dec 30 02:53 : client: [25] closed
+Dec 30 02:53 : client: [26] opened from 127.0.0.1:60522
+Dec 30 02:53 : client: [26] closed
+Dec 30 02:53 : client: [27] opened from 127.0.0.1:60526
+Dec 30 02:53 : client: [27] closed
+Dec 30 02:53 : client: [28] opened from 127.0.0.1:60530
+Dec 30 02:53 : client: [28] closed
+Dec 30 02:53 : client: [29] opened from 127.0.0.1:60534
+Dec 30 02:53 : client: [29] closed
+Dec 30 02:53 : client: [30] opened from 127.0.0.1:60538
+Dec 30 02:53 : client: [30] closed
+Dec 30 02:53 : client: [31] opened from 127.0.0.1:60542
+Dec 30 02:53 : client: [31] closed
+Dec 30 02:53 : client: [32] opened from 127.0.0.1:60546
+Dec 30 02:53 : client: [32] closed
+Dec 30 02:53 : client: [33] opened from 127.0.0.1:60550
+Dec 30 02:53 : client: [33] closed
+Dec 30 02:53 : client: [34] opened from 127.0.0.1:60554
+Dec 30 02:53 : client: [34] closed
+Dec 30 02:53 : client: [35] opened from 127.0.0.1:60556
+Dec 30 02:53 : client: [36] opened from 127.0.0.1:60560
+Dec 30 02:53 : client: [36] closed
+Dec 30 02:53 : client: [37] opened from 127.0.0.1:60564
+Dec 30 02:53 : client: [37] closed
+Dec 30 02:53 : client: [38] opened from 127.0.0.1:60568
+Dec 30 02:53 : client: [38] closed
+Dec 30 02:53 : player: played "BONES - Wi-Fi.mp3"
+Dec 30 02:53 : output: Failed to open mixer for 'alsa'
+Dec 30 02:53 : client: [39] opened from 127.0.0.1:60572
+Dec 30 02:53 : client: [39] closed
+Dec 30 02:53 : client: [40] opened from 127.0.0.1:60576
+Dec 30 02:53 : client: [40] closed
+Dec 30 02:53 : client: [41] opened from 127.0.0.1:60580
+Dec 30 02:53 : client: [41] closed
+Dec 30 02:53 : client: [42] opened from 127.0.0.1:60584
+Dec 30 02:53 : client: [42] closed
+Dec 30 02:53 : client: [43] opened from 127.0.0.1:60588
+Dec 30 02:53 : client: [43] closed
+Dec 30 02:53 : client: [44] opened from 127.0.0.1:60592
+Dec 30 02:53 : client: [44] closed
+Dec 30 02:53 : client: [45] opened from 127.0.0.1:60596
+Dec 30 02:53 : client: [45] closed
+Dec 30 02:53 : client: [46] opened from 127.0.0.1:60600
+Dec 30 02:53 : client: [46] closed
+Dec 30 02:53 : player: played "BONES - Wi-Fi.mp3"
+Dec 30 02:53 : client: [47] opened from 127.0.0.1:60604
+Dec 30 02:53 : client: [47] closed
+Dec 30 02:53 : client: [48] opened from 127.0.0.1:60608
+Dec 30 02:53 : client: [48] closed
+Dec 30 02:53 : client: [49] opened from 127.0.0.1:60612
+Dec 30 02:53 : client: [49] closed
+Dec 30 02:53 : client: [50] opened from 127.0.0.1:60616
+Dec 30 02:53 : client: [50] closed
+Dec 30 02:53 : client: [51] opened from 127.0.0.1:60620
+Dec 30 02:53 : client: [51] closed
+Dec 30 02:53 : client: [52] opened from 127.0.0.1:60624
+Dec 30 02:53 : client: [52] closed
+Dec 30 02:53 : client: [53] opened from 127.0.0.1:60628
+Dec 30 02:53 : client: [53] closed
+Dec 30 02:53 : client: [54] opened from 127.0.0.1:60632
+Dec 30 02:53 : client: [54] closed
+Dec 30 02:53 : client: [55] opened from 127.0.0.1:60636
+Dec 30 02:53 : client: [55] closed
+Dec 30 02:53 : client: [56] opened from 127.0.0.1:60640
+Dec 30 02:53 : client: [56] closed
+Dec 30 02:53 : client: [57] opened from 127.0.0.1:60644
+Dec 30 02:53 : client: [57] closed
+Dec 30 02:53 : client: [58] opened from 127.0.0.1:60648
+Dec 30 02:53 : client: [58] closed
+Dec 30 02:53 : client: [59] opened from 127.0.0.1:60652
+Dec 30 02:53 : client: [59] closed
+Dec 30 02:53 : client: [60] opened from 127.0.0.1:60656
+Dec 30 02:53 : client: [60] closed
+Dec 30 02:53 : client: [61] opened from 127.0.0.1:60660
+Dec 30 02:53 : client: [61] closed
+Dec 30 02:53 : client: [62] opened from 127.0.0.1:60664
+Dec 30 02:53 : client: [62] closed
+Dec 30 02:53 : client: [63] opened from 127.0.0.1:60668
+Dec 30 02:53 : client: [63] closed
+Dec 30 02:53 : client: [64] opened from 127.0.0.1:60672
+Dec 30 02:53 : client: [64] closed
+Dec 30 02:53 : client: [65] opened from 127.0.0.1:60676
+Dec 30 02:53 : client: [65] closed
+Dec 30 02:53 : client: [66] opened from 127.0.0.1:60680
+Dec 30 02:53 : client: [66] closed
+Dec 30 02:53 : client: [67] opened from 127.0.0.1:60684
+Dec 30 02:53 : client: [67] closed
+Dec 30 02:53 : client: [68] opened from 127.0.0.1:60688
+Dec 30 02:53 : client: [68] closed
+Dec 30 02:54 : client: [69] opened from 127.0.0.1:60692
+Dec 30 02:54 : client: [69] closed
+Dec 30 02:54 : client: [70] opened from 127.0.0.1:60696
+Dec 30 02:54 : client: [70] closed
+Dec 30 02:54 : client: [71] opened from 127.0.0.1:60700
+Dec 30 02:54 : client: [71] closed
+Dec 30 02:54 : client: [72] opened from 127.0.0.1:60704
+Dec 30 02:54 : client: [72] closed
+Dec 30 02:54 : client: [73] opened from 127.0.0.1:60708
+Dec 30 02:54 : client: [73] closed
+Dec 30 02:54 : client: [74] opened from 127.0.0.1:60712
+Dec 30 02:54 : client: [74] closed
+Dec 30 02:54 : client: [75] opened from 127.0.0.1:60716
+Dec 30 02:54 : client: [75] closed
+Dec 30 02:54 : client: [76] opened from 127.0.0.1:60720
+Dec 30 02:54 : client: [76] closed
+Dec 30 02:54 : client: [77] opened from 127.0.0.1:60724
+Dec 30 02:54 : client: [77] closed
+Dec 30 02:54 : client: [78] opened from 127.0.0.1:60728
+Dec 30 02:54 : client: [78] closed
+Dec 30 02:54 : client: [79] opened from 127.0.0.1:60732
+Dec 30 02:54 : client: [79] closed
+Dec 30 02:54 : client: [80] opened from 127.0.0.1:60736
+Dec 30 02:54 : client: [80] closed
+Dec 30 02:54 : client: [81] opened from 127.0.0.1:60740
+Dec 30 02:54 : client: [81] closed
+Dec 30 02:54 : client: [82] opened from 127.0.0.1:60744
+Dec 30 02:54 : client: [82] closed
+Dec 30 02:54 : client: [83] opened from 127.0.0.1:60748
+Dec 30 02:54 : client: [83] closed
+Dec 30 02:54 : client: [84] opened from 127.0.0.1:60752
+Dec 30 02:54 : client: [84] closed
+Dec 30 02:54 : client: [85] opened from 127.0.0.1:60756
+Dec 30 02:54 : client: [85] closed
+Dec 30 02:54 : client: [86] opened from 127.0.0.1:60760
+Dec 30 02:54 : client: [86] closed
+Dec 30 02:54 : client: [87] opened from 127.0.0.1:60764
+Dec 30 02:54 : client: [87] closed
+Dec 30 02:54 : client: [88] opened from 127.0.0.1:60768
+Dec 30 02:54 : client: [88] closed
+Dec 30 02:54 : client: [89] opened from 127.0.0.1:60772
+Dec 30 02:54 : client: [89] closed
+Dec 30 02:54 : client: [90] opened from 127.0.0.1:60776
+Dec 30 02:54 : client: [90] closed
+Dec 30 02:54 : client: [91] opened from 127.0.0.1:60782
+Dec 30 02:54 : client: [91] closed
+Dec 30 02:54 : client: [92] opened from 127.0.0.1:60786
+Dec 30 02:54 : client: [92] closed
+Dec 30 02:54 : client: [93] opened from 127.0.0.1:60790
+Dec 30 02:54 : client: [93] closed
+Dec 30 02:54 : client: [94] opened from 127.0.0.1:60794
+Dec 30 02:54 : client: [94] closed
+Dec 30 02:54 : client: [95] opened from 127.0.0.1:60798
+Dec 30 02:54 : client: [95] closed
+Dec 30 02:54 : client: [96] opened from 127.0.0.1:60802
+Dec 30 02:54 : client: [96] closed
+Dec 30 02:54 : client: [97] opened from 127.0.0.1:60806
+Dec 30 02:54 : client: [97] closed
+Dec 30 02:54 : client: [98] opened from 127.0.0.1:60810
+Dec 30 02:54 : client: [98] closed
+Dec 30 02:54 : client: [99] opened from 127.0.0.1:60826
+Dec 30 02:54 : client: [99] closed
+Dec 30 02:54 : client: [100] opened from 127.0.0.1:60830
+Dec 30 02:54 : client: [100] closed
+Dec 30 02:54 : client: [101] opened from 127.0.0.1:60838
+Dec 30 02:54 : client: [101] closed
+Dec 30 02:54 : client: [102] opened from 127.0.0.1:60842
+Dec 30 02:54 : client: [102] closed
+Dec 30 02:54 : client: [103] opened from 127.0.0.1:60850
+Dec 30 02:54 : client: [103] closed
+Dec 30 02:54 : client: [104] opened from 127.0.0.1:60854
+Dec 30 02:54 : client: [104] closed
+Dec 30 02:54 : client: [105] opened from 127.0.0.1:60858
+Dec 30 02:54 : client: [105] closed
+Dec 30 02:54 : client: [106] opened from 127.0.0.1:60862
+Dec 30 02:54 : client: [106] closed
+Dec 30 02:54 : client: [107] opened from 127.0.0.1:60874
+Dec 30 02:54 : client: [107] closed
+Dec 30 02:54 : client: [108] opened from 127.0.0.1:60878
+Dec 30 02:54 : client: [108] closed
+Dec 30 02:54 : client: [109] opened from 127.0.0.1:60890
+Dec 30 02:54 : client: [109] closed
+Dec 30 02:54 : client: [110] opened from 127.0.0.1:60894
+Dec 30 02:54 : client: [110] closed
+Dec 30 02:54 : client: [111] opened from 127.0.0.1:60918
+Dec 30 02:54 : client: [111] closed
+Dec 30 02:54 : client: [112] opened from 127.0.0.1:60922
+Dec 30 02:54 : client: [112] closed
+Dec 30 02:54 : client: [113] opened from 127.0.0.1:60936
+Dec 30 02:54 : client: [113] closed
+Dec 30 02:54 : client: [114] opened from 127.0.0.1:60940
+Dec 30 02:54 : client: [114] closed
+Dec 30 02:54 : client: [115] opened from 127.0.0.1:60946
+Dec 30 02:54 : client: [115] closed
+Dec 30 02:54 : client: [116] opened from 127.0.0.1:60950
+Dec 30 02:54 : client: [116] closed
+Dec 30 02:54 : client: [117] opened from 127.0.0.1:60956
+Dec 30 02:54 : client: [117] closed
+Dec 30 02:54 : client: [118] opened from 127.0.0.1:60960
+Dec 30 02:54 : client: [118] closed
+Dec 30 02:54 : client: [119] opened from 127.0.0.1:60970
+Dec 30 02:54 : client: [119] closed
+Dec 30 02:54 : client: [120] opened from 127.0.0.1:60974
+Dec 30 02:54 : client: [120] closed
+Dec 30 02:54 : client: [121] opened from 127.0.0.1:60978
+Dec 30 02:54 : client: [121] closed
+Dec 30 02:54 : client: [122] opened from 127.0.0.1:60982
+Dec 30 02:54 : client: [122] closed
+Dec 30 02:54 : client: [123] opened from 127.0.0.1:60986
+Dec 30 02:54 : client: [123] closed
+Dec 30 02:54 : client: [124] opened from 127.0.0.1:60990
+Dec 30 02:54 : client: [124] closed
+Dec 30 02:54 : client: [125] opened from 127.0.0.1:60994
+Dec 30 02:54 : client: [125] closed
+Dec 30 02:54 : client: [126] opened from 127.0.0.1:60998
+Dec 30 02:54 : client: [126] closed
+Dec 30 02:54 : client: [127] opened from 127.0.0.1:32770
+Dec 30 02:54 : client: [127] closed
+Dec 30 02:54 : client: [128] opened from 127.0.0.1:32774
+Dec 30 02:54 : client: [128] closed
+Dec 30 02:54 : client: [129] opened from 127.0.0.1:32780
+Dec 30 02:54 : client: [129] closed
+Dec 30 02:54 : client: [130] opened from 127.0.0.1:32784
+Dec 30 02:54 : client: [130] closed
+Dec 30 02:54 : client: [131] opened from 127.0.0.1:32788
+Dec 30 02:54 : client: [131] closed
+Dec 30 02:54 : client: [132] opened from 127.0.0.1:32792
+Dec 30 02:54 : client: [132] closed
+Dec 30 02:54 : client: [133] opened from 127.0.0.1:32798
+Dec 30 02:54 : client: [133] closed
+Dec 30 02:54 : client: [134] opened from 127.0.0.1:32802
+Dec 30 02:54 : client: [134] closed
+Dec 30 02:54 : client: [135] opened from 127.0.0.1:32808
+Dec 30 02:54 : client: [135] closed
+Dec 30 02:54 : client: [136] opened from 127.0.0.1:32812
+Dec 30 02:54 : client: [136] closed
+Dec 30 02:54 : client: [137] opened from 127.0.0.1:32816
+Dec 30 02:54 : client: [137] closed
+Dec 30 02:54 : client: [138] opened from 127.0.0.1:32820
+Dec 30 02:54 : client: [138] closed
+Dec 30 02:54 : client: [139] opened from 127.0.0.1:32828
+Dec 30 02:54 : client: [139] closed
+Dec 30 02:54 : client: [140] opened from 127.0.0.1:32832
+Dec 30 02:54 : client: [140] closed
+Dec 30 02:54 : client: [141] opened from 127.0.0.1:32838
+Dec 30 02:54 : client: [141] closed
+Dec 30 02:54 : client: [142] opened from 127.0.0.1:32842
+Dec 30 02:54 : client: [142] closed
+Dec 30 02:54 : client: [143] opened from 127.0.0.1:32846
+Dec 30 02:54 : client: [143] closed
+Dec 30 02:54 : client: [144] opened from 127.0.0.1:32850
+Dec 30 02:54 : client: [144] closed
+Dec 30 02:54 : client: [145] opened from 127.0.0.1:32854
+Dec 30 02:54 : client: [145] closed
+Dec 30 02:54 : client: [146] opened from 127.0.0.1:32858
+Dec 30 02:54 : client: [146] closed
+Dec 30 02:54 : client: [147] opened from 127.0.0.1:32862
+Dec 30 02:54 : client: [147] closed
+Dec 30 02:54 : client: [148] opened from 127.0.0.1:32866
+Dec 30 02:54 : client: [148] closed

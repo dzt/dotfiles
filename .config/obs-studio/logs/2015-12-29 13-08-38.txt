@@ -1,0 +1,193 @@
+13:08:41.073: Processor: 2 logical cores
+13:08:41.074: Processor: Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz
+13:08:41.074: Physical Memory: 5971MB Total
+13:08:41.074: Kernel Version: Linux 4.2.5-1-ARCH
+13:08:41.092: Distribution: "Arch Linux" Unknown
+13:08:41.304: OBS 0.12.4-2 (linux)
+13:08:41.304: ---------------------------------
+13:08:41.305: ---------------------------------
+13:08:41.305: audio settings reset:
+13:08:41.305: 	samples per sec: 44100
+13:08:41.305: 	speakers:        2
+13:08:41.305: 	buffering (ms):  1000
+13:08:41.590: OpenGL version: 3.3 (Core Profile) Mesa 11.1.0
+13:08:41.590: 
+13:08:41.862: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.866: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.869: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.872: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.874: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.888: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.893: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.899: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.903: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.907: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.911: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.916: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.920: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.928: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.936: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.945: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.954: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.959: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.964: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:08:41.964: ---------------------------------
+13:08:41.964: video settings reset:
+13:08:41.964: 	base resolution:   1920x1080
+13:08:41.964: 	output resolution: 1280x720
+13:08:41.964: 	fps:               30/1
+13:08:41.964: 	format:            NV12
+13:08:41.991: ---------------------------------
+13:08:41.992: Loading module: image-source.so
+13:08:41.992: ---------------------------------
+13:08:41.993: Loading module: linux-capture.so
+13:08:41.994: ---------------------------------
+13:08:41.995: Loading module: linux-decklink.so
+13:08:41.996: No blackmagic support
+13:08:41.996: Failed to start search for DeckLink devices
+13:08:41.996: ---------------------------------
+13:08:42.049: Loading module: linux-jack.so
+13:08:42.049: ---------------------------------
+13:08:42.050: Loading module: linux-pulseaudio.so
+13:08:42.050: ---------------------------------
+13:08:42.052: Loading module: linux-v4l2.so
+13:08:42.052: ---------------------------------
+13:08:42.054: Loading module: obs-ffmpeg.so
+13:08:42.062: ---------------------------------
+13:08:42.063: Loading module: obs-filters.so
+13:08:42.063: ---------------------------------
+13:08:42.064: Loading module: obs-libfdk.so
+13:08:42.065: ---------------------------------
+13:08:42.066: Loading module: obs-outputs.so
+13:08:42.066: ---------------------------------
+13:08:42.067: Loading module: obs-x264.so
+13:08:42.067: ---------------------------------
+13:08:42.068: Loading module: rtmp-services.so
+13:08:42.068: ---------------------------------
+13:08:42.070: Loading module: text-freetype2.so
+13:08:42.070: =====================================================================
+13:08:42.070: output 'simple_stream' (rtmp_output) created
+13:08:42.070: encoder 'simple_h264_stream' (obs_x264) created
+13:08:42.070: AAC encoder bitrate mapping:
+13:08:42.070: 	 32 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	 64 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	 96 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	128 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	160 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	192 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	224 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	256 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:08:42.070: 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+13:08:42.070: 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+13:08:42.070: encoder 'simple_aac' (libfdk_aac) created
+13:08:42.071: output 'simple_file_output' (ffmpeg_muxer) created
+13:08:42.071: Service '' not found
+13:08:42.071: service 'default_service' (rtmp_common) created
+13:08:42.087: glTexParameteri failed, glGetError returned 0x500
+13:08:42.087: device_load_texture (GL) failed
+13:08:43.550: No scene file found, creating default scene
+13:08:43.550: glTexParameteri failed, glGetError returned 0x500
+13:08:43.550: device_load_texture (GL) failed
+13:08:43.550: All scene data cleared
+13:08:43.550: ------------------------------------------------
+13:08:43.550: source 'Scene' (scene) created
+13:08:43.558: glTexParameteri failed, glGetError returned 0x500
+13:08:43.558: device_load_texture (GL) failed
+13:08:43.696: Failed to glob scene collections
+13:08:43.740: == Profiler Results =============================
+13:08:43.741: run_program_init: 5927.16 ms
+13:08:43.741:  ┣OBSApp::AppInit: 62.232 ms
+13:08:43.741:  ┃ ┗OBSApp::InitLocale: 1.106 ms
+13:08:43.741:  ┗OBSApp::OBSInit: 5526.9 ms
+13:08:43.741:    ┣obs_startup: 49.455 ms
+13:08:43.741:    ┗OBSBasic::OBSInit: 2435.62 ms
+13:08:43.741:      ┣OBSBasic::InitBasicConfig: 0.594 ms
+13:08:43.741:      ┣OBSBasic::ResetAudio: 0.156 ms
+13:08:43.741:      ┣OBSBasic::ResetVideo: 685.163 ms
+13:08:43.741:      ┣OBSBasic::InitOBSCallbacks: 0.03 ms
+13:08:43.741:      ┣OBSBasic::InitHotkeys: 0.146 ms
+13:08:43.741:      ┣obs_load_all_modules: 79.547 ms
+13:08:43.741:      ┃ ┣obs_init_module(image-source.so): 0.003 ms
+13:08:43.741:      ┃ ┣obs_init_module(linux-capture.so): 0.598 ms
+13:08:43.741:      ┃ ┣obs_init_module(linux-decklink.so): 0.226 ms
+13:08:43.741:      ┃ ┣obs_init_module(linux-jack.so): 0.007 ms
+13:08:43.741:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.003 ms
+13:08:43.741:      ┃ ┣obs_init_module(linux-v4l2.so): 0.002 ms
+13:08:43.741:      ┃ ┣obs_init_module(obs-ffmpeg.so): 8.201 ms
+13:08:43.741:      ┃ ┣obs_init_module(obs-filters.so): 0.01 ms
+13:08:43.741:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+13:08:43.741:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+13:08:43.741:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+13:08:43.741:      ┃ ┣obs_init_module(rtmp-services.so): 0.189 ms
+13:08:43.741:      ┃ ┗obs_init_module(text-freetype2.so): 0.11 ms
+13:08:43.741:      ┣OBSBasic::ResetOutputs: 0.611 ms
+13:08:43.741:      ┣OBSBasic::CreateHotkeys: 0.033 ms
+13:08:43.741:      ┣OBSBasic::InitService: 0.095 ms
+13:08:43.741:      ┣OBSBasic::InitPrimitives: 1478.85 ms
+13:08:43.741:      ┗OBSBasic::Load: 146.147 ms
+13:08:43.741: =================================================
+13:08:44.120: glTexParameteri failed, glGetError returned 0x500
+13:08:44.120: device_load_texture (GL) failed
+13:08:44.792: Update check: last known remote version is 0.4.0
+13:09:00.405: source 'Scene' destroyed
+13:09:00.426: All scene data cleared
+13:09:00.426: ------------------------------------------------
+13:09:00.528: service 'default_service' destroyed
+13:09:00.528: encoder 'simple_h264_stream' destroyed
+13:09:00.528: encoder 'simple_aac' destroyed
+13:09:00.528: output 'simple_stream' destroyed
+13:09:00.529: output 'simple_file_output' destroyed
+13:09:01.145: Freeing OBS context data
+13:09:01.165: == Profiler Results =============================
+13:09:01.165: run_program_init: 5927.16 ms
+13:09:01.165:  ┣OBSApp::AppInit: 62.232 ms
+13:09:01.165:  ┃ ┗OBSApp::InitLocale: 1.106 ms
+13:09:01.165:  ┗OBSApp::OBSInit: 5526.9 ms
+13:09:01.165:    ┣obs_startup: 49.455 ms
+13:09:01.165:    ┗OBSBasic::OBSInit: 2435.62 ms
+13:09:01.165:      ┣OBSBasic::InitBasicConfig: 0.594 ms
+13:09:01.165:      ┣OBSBasic::ResetAudio: 0.156 ms
+13:09:01.165:      ┣OBSBasic::ResetVideo: 685.163 ms
+13:09:01.165:      ┣OBSBasic::InitOBSCallbacks: 0.03 ms
+13:09:01.165:      ┣OBSBasic::InitHotkeys: 0.146 ms
+13:09:01.165:      ┣obs_load_all_modules: 79.547 ms
+13:09:01.165:      ┃ ┣obs_init_module(image-source.so): 0.003 ms
+13:09:01.165:      ┃ ┣obs_init_module(linux-capture.so): 0.598 ms
+13:09:01.165:      ┃ ┣obs_init_module(linux-decklink.so): 0.226 ms
+13:09:01.165:      ┃ ┣obs_init_module(linux-jack.so): 0.007 ms
+13:09:01.165:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.003 ms
+13:09:01.165:      ┃ ┣obs_init_module(linux-v4l2.so): 0.002 ms
+13:09:01.165:      ┃ ┣obs_init_module(obs-ffmpeg.so): 8.201 ms
+13:09:01.165:      ┃ ┣obs_init_module(obs-filters.so): 0.01 ms
+13:09:01.166:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+13:09:01.166:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+13:09:01.166:      ┃ ┣obs_init_module(obs-x264.so): 0.003 ms
+13:09:01.166:      ┃ ┣obs_init_module(rtmp-services.so): 0.189 ms
+13:09:01.166:      ┃ ┗obs_init_module(text-freetype2.so): 0.11 ms
+13:09:01.166:      ┣OBSBasic::ResetOutputs: 0.611 ms
+13:09:01.166:      ┣OBSBasic::CreateHotkeys: 0.033 ms
+13:09:01.166:      ┣OBSBasic::InitService: 0.095 ms
+13:09:01.166:      ┣OBSBasic::InitPrimitives: 1478.85 ms
+13:09:01.166:      ┗OBSBasic::Load: 146.147 ms
+13:09:01.166: obs_hotkey_thread(25 ms): min=0.106 ms, median=0.223 ms, max=125.543 ms, 99th percentile=52.208 ms, 97.8408% below 25 ms
+13:09:01.166: audio_thread(Audio): min=0.005 ms, median=0.014 ms, max=0.081 ms, 99th percentile=0.057 ms
+13:09:01.166: obs_video_thread(33.3333 ms): min=16.835 ms, median=161.725 ms, max=1525.89 ms, 99th percentile=474.82 ms, 0.961538% below 33.333 ms
+13:09:01.166:  ┣tick_sources: min=0.001 ms, median=0.002 ms, max=0.014 ms, 99th percentile=0.003 ms
+13:09:01.166:  ┣render_displays: min=0.016 ms, median=4.515 ms, max=179.667 ms, 99th percentile=88.942 ms
+13:09:01.166:  ┗output_frame: min=16.806 ms, median=154.965 ms, max=1525.87 ms, 99th percentile=474.744 ms
+13:09:01.166:    ┣gs_context(video->graphics): min=16.805 ms, median=154.289 ms, max=1525.87 ms, 99th percentile=474.744 ms
+13:09:01.166:    ┃ ┣render_video: min=12.174 ms, median=131.215 ms, max=1378.57 ms, 99th percentile=451.993 ms
+13:09:01.166:    ┃ ┃ ┣render_main_texture: min=0.046 ms, median=0.064 ms, max=12.141 ms, 99th percentile=0.111 ms
+13:09:01.166:    ┃ ┃ ┣render_output_texture: min=0.006 ms, median=4.917 ms, max=1378.48 ms, 99th percentile=7.665 ms
+13:09:01.166:    ┃ ┃ ┣render_convert_texture: min=0.003 ms, median=124.832 ms, max=447.579 ms, 99th percentile=200.707 ms
+13:09:01.166:    ┃ ┃ ┗stage_output_texture: min=0 ms, median=0.772 ms, max=1.023 ms, 99th percentile=0.967 ms
+13:09:01.166:    ┃ ┣download_frame: min=0 ms, median=0.006 ms, max=0.011 ms, 99th percentile=0.01 ms
+13:09:01.166:    ┃ ┗gs_flush: min=4.611 ms, median=21.235 ms, max=147.277 ms, 99th percentile=52.936 ms
+13:09:01.166:    ┗output_video_data: min=0.655 ms, median=0.69 ms, max=1.779 ms, 99th percentile=1.779 ms
+13:09:01.166: video_thread(video): min=0.001 ms, median=0.002 ms, max=0.129 ms, 99th percentile=0.129 ms
+13:09:01.166: =================================================
+13:09:01.166: == Profiler Time Between Calls ==================
+13:09:01.166: obs_hotkey_thread(25 ms): min=25.175 ms, median=25.293 ms, max=150.631 ms, 86.2162% within ±2% of 25 ms (0% lower, 13.7838% higher)
+13:09:01.166: obs_video_thread(33.3333 ms): min=33.33 ms, median=160.573 ms, max=1525.91 ms, 0.970874% within ±2% of 33.333 ms (0% lower, 99.0291% higher)
+13:09:01.166: =================================================
+13:09:01.173: Number of memory leaks: 0

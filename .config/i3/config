@@ -196,5 +196,6 @@ bar {
     # i3bar position
     position top
     # Using custom i3status.conf
-    status_command i3status -c /home/sativa/.config/i3/i3status.conf
+    status_command ~/.config/i3/i3status-conky/i3status.sh
+
 }

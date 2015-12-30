@@ -1,0 +1,134 @@
+13:09:15.479: Processor: 2 logical cores
+13:09:15.479: Processor: Intel(R) Core(TM)2 CPU          6400  @ 2.13GHz
+13:09:15.479: Physical Memory: 5971MB Total
+13:09:15.479: Kernel Version: Linux 4.2.5-1-ARCH
+13:09:15.479: Distribution: "Arch Linux" Unknown
+13:09:15.500: OBS 0.12.4-2 (linux)
+13:09:15.500: ---------------------------------
+13:09:15.500: ---------------------------------
+13:09:15.501: audio settings reset:
+13:09:15.501: 	samples per sec: 44100
+13:09:15.501: 	speakers:        2
+13:09:15.501: 	buffering (ms):  1000
+13:09:15.673: OpenGL version: 3.3 (Core Profile) Mesa 11.1.0
+13:09:15.673: 
+13:09:15.685: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.688: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.690: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.692: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.694: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.705: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.709: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.714: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.716: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.719: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.722: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.726: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.730: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.736: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.742: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.749: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.755: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.759: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.763: glGetIntegerv(GL_MAX_TEXTURE_ANISOTROPY_MAX) failed, glGetError returned 0x500
+13:09:15.763: ---------------------------------
+13:09:15.763: video settings reset:
+13:09:15.763: 	base resolution:   1920x1080
+13:09:15.763: 	output resolution: 1280x720
+13:09:15.763: 	fps:               30/1
+13:09:15.763: 	format:            NV12
+13:09:15.788: ---------------------------------
+13:09:15.789: Loading module: image-source.so
+13:09:15.790: ---------------------------------
+13:09:15.791: Loading module: linux-capture.so
+13:09:15.793: ---------------------------------
+13:09:15.794: Loading module: linux-decklink.so
+13:09:15.795: No blackmagic support
+13:09:15.795: Failed to start search for DeckLink devices
+13:09:15.795: ---------------------------------
+13:09:15.799: Loading module: linux-jack.so
+13:09:15.799: ---------------------------------
+13:09:15.800: Loading module: linux-pulseaudio.so
+13:09:15.801: ---------------------------------
+13:09:15.802: Loading module: linux-v4l2.so
+13:09:15.802: ---------------------------------
+13:09:15.803: Loading module: obs-ffmpeg.so
+13:09:15.803: ---------------------------------
+13:09:15.804: Loading module: obs-filters.so
+13:09:15.804: ---------------------------------
+13:09:15.805: Loading module: obs-libfdk.so
+13:09:15.805: ---------------------------------
+13:09:15.806: Loading module: obs-outputs.so
+13:09:15.806: ---------------------------------
+13:09:15.807: Loading module: obs-x264.so
+13:09:15.807: ---------------------------------
+13:09:15.808: Loading module: rtmp-services.so
+13:09:15.808: ---------------------------------
+13:09:15.809: Loading module: text-freetype2.so
+13:09:15.809: =====================================================================
+13:09:15.809: output 'simple_stream' (rtmp_output) created
+13:09:15.809: encoder 'simple_h264_stream' (obs_x264) created
+13:09:15.809: AAC encoder bitrate mapping:
+13:09:15.809: 	 32 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	 64 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	 96 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	128 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	160 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	192 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	224 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	256 kbit/s: 'libfdk AAC Encoder' (libfdk_aac)
+13:09:15.809: 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+13:09:15.809: 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+13:09:15.809: encoder 'simple_aac' (libfdk_aac) created
+13:09:15.810: output 'simple_file_output' (ffmpeg_muxer) created
+13:09:15.810: Service '' not found
+13:09:15.810: service 'default_service' (rtmp_common) created
+13:09:15.810: All scene data cleared
+13:09:15.810: ------------------------------------------------
+13:09:15.810: source 'Scene' (scene) created
+13:09:15.848: glTexParameteri failed, glGetError returned 0x500
+13:09:15.848: device_load_texture (GL) failed
+13:09:15.892: == Profiler Results =============================
+13:09:15.893: run_program_init: 495.667 ms
+13:09:15.893:  ┣OBSApp::AppInit: 1.388 ms
+13:09:15.893:  ┃ ┗OBSApp::InitLocale: 1.058 ms
+13:09:15.893:  ┗OBSApp::OBSInit: 473.377 ms
+13:09:15.893:    ┣obs_startup: 1.441 ms
+13:09:15.893:    ┗OBSBasic::OBSInit: 392.175 ms
+13:09:15.893:      ┣OBSBasic::InitBasicConfig: 0.506 ms
+13:09:15.893:      ┣OBSBasic::ResetAudio: 0.177 ms
+13:09:15.893:      ┣OBSBasic::ResetVideo: 286.808 ms
+13:09:15.893:      ┣OBSBasic::InitOBSCallbacks: 0.025 ms
+13:09:15.893:      ┣OBSBasic::InitHotkeys: 0.131 ms
+13:09:15.893:      ┣obs_load_all_modules: 21.219 ms
+13:09:15.893:      ┃ ┣obs_init_module(image-source.so): 0.006 ms
+13:09:15.893:      ┃ ┣obs_init_module(linux-capture.so): 1.484 ms
+13:09:15.893:      ┃ ┣obs_init_module(linux-decklink.so): 0.18 ms
+13:09:15.893:      ┃ ┣obs_init_module(linux-jack.so): 0.007 ms
+13:09:15.893:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.004 ms
+13:09:15.893:      ┃ ┣obs_init_module(linux-v4l2.so): 0.003 ms
+13:09:15.893:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.018 ms
+13:09:15.893:      ┃ ┣obs_init_module(obs-filters.so): 0.008 ms
+13:09:15.893:      ┃ ┣obs_init_module(obs-libfdk.so): 0.002 ms
+13:09:15.893:      ┃ ┣obs_init_module(obs-outputs.so): 0.003 ms
+13:09:15.893:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+13:09:15.893:      ┃ ┣obs_init_module(rtmp-services.so): 0.133 ms
+13:09:15.893:      ┃ ┗obs_init_module(text-freetype2.so): 0.056 ms
+13:09:15.893:      ┣OBSBasic::ResetOutputs: 0.69 ms
+13:09:15.893:      ┣OBSBasic::CreateHotkeys: 0.031 ms
+13:09:15.893:      ┣OBSBasic::InitService: 0.083 ms
+13:09:15.893:      ┣OBSBasic::InitPrimitives: 0.071 ms
+13:09:15.893:      ┗OBSBasic::Load: 0.753 ms
+13:09:15.893: =================================================
+13:09:16.616: glTexParameteri failed, glGetError returned 0x500
+13:09:16.616: device_load_texture (GL) failed
+13:09:16.625: glTexParameteri failed, glGetError returned 0x500
+13:09:16.625: device_load_texture (GL) failed
+13:09:17.140: glTexParameteri failed, glGetError returned 0x500
+13:09:17.140: device_load_texture (GL) failed
+13:09:43.405: xshm-input: Geometry 1920x1080 @ 0,0
+13:09:43.606: source 'screen' (xshm_input) created
+13:09:43.610: glTexParameteri failed, glGetError returned 0x500
+13:09:43.610: device_load_texture (GL) failed
+13:09:44.010: glTexParameteri failed, glGetError returned 0x500
+13:09:44.010: device_load_texture (GL) failed
