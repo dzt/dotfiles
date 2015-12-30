@@ -1876,3 +1876,1350 @@ Dec 30 02:57 : client: [541] opened from 127.0.0.1:34440
 Dec 30 02:57 : client: [541] closed
 Dec 30 02:57 : client: [542] opened from 127.0.0.1:34444
 Dec 30 02:57 : client: [542] closed
+Dec 30 02:57 : client: [543] opened from 127.0.0.1:34448
+Dec 30 02:57 : client: [543] closed
+Dec 30 02:57 : client: [544] opened from 127.0.0.1:34452
+Dec 30 02:57 : client: [544] closed
+Dec 30 02:57 : client: [545] opened from 127.0.0.1:34456
+Dec 30 02:57 : client: [545] closed
+Dec 30 02:57 : client: [546] opened from 127.0.0.1:34460
+Dec 30 02:57 : client: [546] closed
+Dec 30 02:57 : client: [547] opened from 127.0.0.1:34464
+Dec 30 02:57 : client: [547] closed
+Dec 30 02:57 : client: [548] opened from 127.0.0.1:34468
+Dec 30 02:57 : client: [548] closed
+Dec 30 02:58 : client: [549] opened from 127.0.0.1:34472
+Dec 30 02:58 : client: [549] closed
+Dec 30 02:58 : client: [550] opened from 127.0.0.1:34476
+Dec 30 02:58 : client: [550] closed
+Dec 30 02:58 : client: [551] opened from 127.0.0.1:34480
+Dec 30 02:58 : client: [551] closed
+Dec 30 02:58 : client: [552] opened from 127.0.0.1:34484
+Dec 30 02:58 : client: [552] closed
+Dec 30 02:58 : client: [553] opened from 127.0.0.1:34488
+Dec 30 02:58 : client: [553] closed
+Dec 30 02:58 : client: [554] opened from 127.0.0.1:34492
+Dec 30 02:58 : client: [554] closed
+Dec 30 02:58 : client: [555] opened from 127.0.0.1:34496
+Dec 30 02:58 : client: [555] closed
+Dec 30 02:58 : client: [556] opened from 127.0.0.1:34500
+Dec 30 02:58 : client: [556] closed
+Dec 30 02:58 : client: [557] opened from 127.0.0.1:34504
+Dec 30 02:58 : client: [557] closed
+Dec 30 02:58 : client: [558] opened from 127.0.0.1:34508
+Dec 30 02:58 : client: [558] closed
+Dec 30 02:58 : client: [559] opened from 127.0.0.1:34512
+Dec 30 02:58 : client: [559] closed
+Dec 30 02:58 : client: [560] opened from 127.0.0.1:34516
+Dec 30 02:58 : client: [560] closed
+Dec 30 02:58 : client: [561] opened from 127.0.0.1:34520
+Dec 30 02:58 : client: [561] closed
+Dec 30 02:58 : client: [562] opened from 127.0.0.1:34524
+Dec 30 02:58 : client: [562] closed
+Dec 30 02:58 : client: [563] opened from 127.0.0.1:34528
+Dec 30 02:58 : client: [563] closed
+Dec 30 02:58 : client: [564] opened from 127.0.0.1:34532
+Dec 30 02:58 : client: [564] closed
+Dec 30 02:58 : client: [565] opened from 127.0.0.1:34536
+Dec 30 02:58 : client: [565] closed
+Dec 30 02:58 : client: [566] opened from 127.0.0.1:34540
+Dec 30 02:58 : client: [566] closed
+Dec 30 02:58 : client: [567] opened from 127.0.0.1:34544
+Dec 30 02:58 : client: [567] closed
+Dec 30 02:58 : client: [568] opened from 127.0.0.1:34548
+Dec 30 02:58 : client: [568] closed
+Dec 30 02:58 : client: [569] opened from 127.0.0.1:34552
+Dec 30 02:58 : client: [569] closed
+Dec 30 02:58 : client: [570] opened from 127.0.0.1:34556
+Dec 30 02:58 : client: [570] closed
+Dec 30 02:58 : client: [571] opened from 127.0.0.1:34560
+Dec 30 02:58 : client: [571] closed
+Dec 30 02:58 : client: [572] opened from 127.0.0.1:34564
+Dec 30 02:58 : client: [572] closed
+Dec 30 02:58 : client: [573] opened from 127.0.0.1:34568
+Dec 30 02:58 : client: [573] closed
+Dec 30 02:58 : client: [574] opened from 127.0.0.1:34572
+Dec 30 02:58 : client: [574] closed
+Dec 30 02:58 : client: [575] opened from 127.0.0.1:34576
+Dec 30 02:58 : client: [575] closed
+Dec 30 02:58 : client: [576] opened from 127.0.0.1:34580
+Dec 30 02:58 : client: [576] closed
+Dec 30 02:58 : client: [577] opened from 127.0.0.1:34584
+Dec 30 02:58 : client: [577] closed
+Dec 30 02:58 : client: [578] opened from 127.0.0.1:34588
+Dec 30 02:58 : client: [578] closed
+Dec 30 02:58 : client: [579] opened from 127.0.0.1:34592
+Dec 30 02:58 : client: [579] closed
+Dec 30 02:58 : client: [580] opened from 127.0.0.1:34596
+Dec 30 02:58 : client: [580] closed
+Dec 30 02:58 : client: [581] opened from 127.0.0.1:34600
+Dec 30 02:58 : client: [581] closed
+Dec 30 02:58 : client: [582] opened from 127.0.0.1:34604
+Dec 30 02:58 : client: [582] closed
+Dec 30 02:58 : client: [583] opened from 127.0.0.1:34608
+Dec 30 02:58 : client: [583] closed
+Dec 30 02:58 : client: [584] opened from 127.0.0.1:34612
+Dec 30 02:58 : client: [584] closed
+Dec 30 02:58 : client: [585] opened from 127.0.0.1:34618
+Dec 30 02:58 : client: [585] closed
+Dec 30 02:58 : client: [586] opened from 127.0.0.1:34622
+Dec 30 02:58 : client: [586] closed
+Dec 30 02:58 : client: [587] opened from 127.0.0.1:34626
+Dec 30 02:58 : client: [587] closed
+Dec 30 02:58 : client: [588] opened from 127.0.0.1:34630
+Dec 30 02:58 : client: [588] closed
+Dec 30 02:58 : client: [589] opened from 127.0.0.1:34634
+Dec 30 02:58 : client: [589] closed
+Dec 30 02:58 : client: [590] opened from 127.0.0.1:34638
+Dec 30 02:58 : client: [590] closed
+Dec 30 02:58 : client: [591] opened from 127.0.0.1:34642
+Dec 30 02:58 : client: [591] closed
+Dec 30 02:58 : client: [592] opened from 127.0.0.1:34646
+Dec 30 02:58 : client: [592] closed
+Dec 30 02:58 : client: [593] opened from 127.0.0.1:34654
+Dec 30 02:58 : client: [593] closed
+Dec 30 02:58 : client: [594] opened from 127.0.0.1:34658
+Dec 30 02:58 : client: [594] closed
+Dec 30 02:58 : client: [595] opened from 127.0.0.1:34662
+Dec 30 02:58 : client: [595] closed
+Dec 30 02:58 : client: [596] opened from 127.0.0.1:34666
+Dec 30 02:58 : client: [596] closed
+Dec 30 02:58 : client: [597] opened from 127.0.0.1:34670
+Dec 30 02:58 : client: [597] closed
+Dec 30 02:58 : client: [598] opened from 127.0.0.1:34674
+Dec 30 02:58 : client: [598] closed
+Dec 30 02:58 : client: [599] opened from 127.0.0.1:34678
+Dec 30 02:58 : client: [599] closed
+Dec 30 02:58 : client: [600] opened from 127.0.0.1:34682
+Dec 30 02:58 : client: [600] closed
+Dec 30 02:58 : client: [601] opened from 127.0.0.1:34686
+Dec 30 02:58 : client: [601] closed
+Dec 30 02:58 : client: [602] opened from 127.0.0.1:34690
+Dec 30 02:58 : client: [602] closed
+Dec 30 02:58 : client: [603] opened from 127.0.0.1:34694
+Dec 30 02:58 : client: [603] closed
+Dec 30 02:58 : client: [604] opened from 127.0.0.1:34698
+Dec 30 02:58 : client: [604] closed
+Dec 30 02:58 : client: [605] opened from 127.0.0.1:34702
+Dec 30 02:58 : client: [605] closed
+Dec 30 02:58 : client: [606] opened from 127.0.0.1:34706
+Dec 30 02:58 : client: [606] closed
+Dec 30 02:58 : client: [607] opened from 127.0.0.1:34710
+Dec 30 02:58 : client: [607] closed
+Dec 30 02:58 : client: [608] opened from 127.0.0.1:34714
+Dec 30 02:58 : client: [608] closed
+Dec 30 02:58 : client: [609] opened from 127.0.0.1:34718
+Dec 30 02:58 : client: [609] closed
+Dec 30 02:58 : client: [610] opened from 127.0.0.1:34722
+Dec 30 02:58 : client: [610] closed
+Dec 30 02:58 : client: [611] opened from 127.0.0.1:34726
+Dec 30 02:58 : client: [611] closed
+Dec 30 02:58 : client: [612] opened from 127.0.0.1:34730
+Dec 30 02:58 : client: [612] closed
+Dec 30 02:58 : client: [613] opened from 127.0.0.1:34738
+Dec 30 02:58 : client: [613] closed
+Dec 30 02:58 : client: [614] opened from 127.0.0.1:34742
+Dec 30 02:58 : client: [614] closed
+Dec 30 02:58 : client: [615] opened from 127.0.0.1:34746
+Dec 30 02:58 : client: [615] closed
+Dec 30 02:58 : client: [616] opened from 127.0.0.1:34750
+Dec 30 02:58 : client: [616] closed
+Dec 30 02:58 : client: [617] opened from 127.0.0.1:34772
+Dec 30 02:58 : client: [617] closed
+Dec 30 02:58 : client: [618] opened from 127.0.0.1:34776
+Dec 30 02:58 : client: [618] closed
+Dec 30 02:58 : client: [619] opened from 127.0.0.1:34794
+Dec 30 02:58 : client: [619] closed
+Dec 30 02:58 : client: [620] opened from 127.0.0.1:34798
+Dec 30 02:58 : client: [620] closed
+Dec 30 02:58 : client: [621] opened from 127.0.0.1:34834
+Dec 30 02:58 : client: [621] closed
+Dec 30 02:58 : client: [622] opened from 127.0.0.1:34840
+Dec 30 02:58 : client: [622] closed
+Dec 30 02:58 : client: [623] opened from 127.0.0.1:34848
+Dec 30 02:58 : client: [623] closed
+Dec 30 02:58 : client: [624] opened from 127.0.0.1:34852
+Dec 30 02:58 : client: [624] closed
+Dec 30 02:58 : client: [625] opened from 127.0.0.1:34860
+Dec 30 02:58 : client: [625] closed
+Dec 30 02:58 : client: [626] opened from 127.0.0.1:34864
+Dec 30 02:58 : client: [626] closed
+Dec 30 02:58 : client: [627] opened from 127.0.0.1:34868
+Dec 30 02:58 : client: [627] closed
+Dec 30 02:58 : client: [628] opened from 127.0.0.1:34872
+Dec 30 02:58 : client: [628] closed
+Dec 30 02:58 : client: [629] opened from 127.0.0.1:34878
+Dec 30 02:58 : client: [629] closed
+Dec 30 02:58 : client: [630] opened from 127.0.0.1:34882
+Dec 30 02:58 : client: [630] closed
+Dec 30 02:58 : client: [631] opened from 127.0.0.1:34886
+Dec 30 02:58 : client: [631] closed
+Dec 30 02:58 : client: [632] opened from 127.0.0.1:34890
+Dec 30 02:58 : client: [632] closed
+Dec 30 02:58 : client: [633] opened from 127.0.0.1:34896
+Dec 30 02:58 : client: [633] closed
+Dec 30 02:58 : client: [634] opened from 127.0.0.1:34900
+Dec 30 02:58 : client: [634] closed
+Dec 30 02:58 : client: [635] opened from 127.0.0.1:34904
+Dec 30 02:58 : client: [635] closed
+Dec 30 02:58 : client: [636] opened from 127.0.0.1:34908
+Dec 30 02:58 : client: [636] closed
+Dec 30 02:58 : client: [637] opened from 127.0.0.1:34912
+Dec 30 02:58 : client: [637] closed
+Dec 30 02:58 : client: [638] opened from 127.0.0.1:34916
+Dec 30 02:58 : client: [638] closed
+Dec 30 02:58 : client: [639] opened from 127.0.0.1:34948
+Dec 30 02:58 : client: [639] closed
+Dec 30 02:58 : client: [640] opened from 127.0.0.1:34952
+Dec 30 02:58 : client: [640] closed
+Dec 30 02:58 : client: [641] opened from 127.0.0.1:34968
+Dec 30 02:58 : client: [641] closed
+Dec 30 02:58 : client: [642] opened from 127.0.0.1:34972
+Dec 30 02:58 : client: [642] closed
+Dec 30 02:58 : client: [643] opened from 127.0.0.1:34978
+Dec 30 02:58 : client: [643] closed
+Dec 30 02:58 : client: [644] opened from 127.0.0.1:34982
+Dec 30 02:58 : client: [644] closed
+Dec 30 02:58 : client: [645] opened from 127.0.0.1:34996
+Dec 30 02:58 : client: [645] closed
+Dec 30 02:58 : client: [646] opened from 127.0.0.1:35000
+Dec 30 02:58 : client: [646] closed
+Dec 30 02:58 : client: [647] opened from 127.0.0.1:35006
+Dec 30 02:58 : client: [647] closed
+Dec 30 02:58 : client: [648] opened from 127.0.0.1:35010
+Dec 30 02:58 : client: [648] closed
+Dec 30 02:58 : client: [649] opened from 127.0.0.1:35014
+Dec 30 02:58 : client: [649] closed
+Dec 30 02:58 : client: [650] opened from 127.0.0.1:35028
+Dec 30 02:58 : client: [650] closed
+Dec 30 02:58 : client: [651] opened from 127.0.0.1:35054
+Dec 30 02:58 : client: [651] closed
+Dec 30 02:58 : client: [652] opened from 127.0.0.1:35058
+Dec 30 02:58 : client: [652] closed
+Dec 30 02:58 : client: [653] opened from 127.0.0.1:35062
+Dec 30 02:58 : client: [653] closed
+Dec 30 02:58 : client: [654] opened from 127.0.0.1:35066
+Dec 30 02:58 : client: [654] closed
+Dec 30 02:58 : client: [655] opened from 127.0.0.1:35080
+Dec 30 02:58 : client: [655] closed
+Dec 30 02:58 : client: [656] opened from 127.0.0.1:35084
+Dec 30 02:58 : client: [656] closed
+Dec 30 02:58 : client: [657] opened from 127.0.0.1:35088
+Dec 30 02:58 : client: [657] closed
+Dec 30 02:58 : client: [658] opened from 127.0.0.1:35092
+Dec 30 02:58 : client: [658] closed
+Dec 30 02:58 : client: [659] opened from 127.0.0.1:35096
+Dec 30 02:58 : client: [659] closed
+Dec 30 02:58 : client: [660] opened from 127.0.0.1:35100
+Dec 30 02:58 : client: [660] closed
+Dec 30 02:58 : client: [661] opened from 127.0.0.1:35104
+Dec 30 02:58 : client: [661] closed
+Dec 30 02:58 : client: [662] opened from 127.0.0.1:35108
+Dec 30 02:58 : client: [662] closed
+Dec 30 02:58 : client: [663] opened from 127.0.0.1:35112
+Dec 30 02:58 : client: [663] closed
+Dec 30 02:58 : client: [664] opened from 127.0.0.1:35116
+Dec 30 02:58 : client: [664] closed
+Dec 30 02:58 : client: [665] opened from 127.0.0.1:35120
+Dec 30 02:58 : client: [665] closed
+Dec 30 02:58 : client: [666] opened from 127.0.0.1:35124
+Dec 30 02:58 : client: [666] closed
+Dec 30 02:58 : client: [667] opened from 127.0.0.1:35128
+Dec 30 02:58 : client: [667] closed
+Dec 30 02:58 : client: [668] opened from 127.0.0.1:35132
+Dec 30 02:58 : client: [668] closed
+Dec 30 02:59 : client: [669] opened from 127.0.0.1:35136
+Dec 30 02:59 : client: [669] closed
+Dec 30 02:59 : client: [670] opened from 127.0.0.1:35140
+Dec 30 02:59 : client: [670] closed
+Dec 30 02:59 : client: [671] opened from 127.0.0.1:35144
+Dec 30 02:59 : client: [671] closed
+Dec 30 02:59 : client: [672] opened from 127.0.0.1:35148
+Dec 30 02:59 : client: [672] closed
+Dec 30 02:59 : client: [673] opened from 127.0.0.1:35154
+Dec 30 02:59 : client: [673] closed
+Dec 30 02:59 : client: [674] opened from 127.0.0.1:35158
+Dec 30 02:59 : client: [674] closed
+Dec 30 02:59 : client: [675] opened from 127.0.0.1:35162
+Dec 30 02:59 : client: [675] closed
+Dec 30 02:59 : client: [676] opened from 127.0.0.1:35166
+Dec 30 02:59 : client: [676] closed
+Dec 30 02:59 : client: [677] opened from 127.0.0.1:35170
+Dec 30 02:59 : client: [677] closed
+Dec 30 02:59 : client: [678] opened from 127.0.0.1:35174
+Dec 30 02:59 : client: [678] closed
+Dec 30 02:59 : client: [679] opened from 127.0.0.1:35178
+Dec 30 02:59 : client: [679] closed
+Dec 30 02:59 : client: [680] opened from 127.0.0.1:35182
+Dec 30 02:59 : client: [680] closed
+Dec 30 02:59 : client: [681] opened from 127.0.0.1:35186
+Dec 30 02:59 : client: [681] closed
+Dec 30 02:59 : client: [682] opened from 127.0.0.1:35190
+Dec 30 02:59 : client: [682] closed
+Dec 30 02:59 : client: [683] opened from 127.0.0.1:35194
+Dec 30 02:59 : client: [683] closed
+Dec 30 02:59 : client: [684] opened from 127.0.0.1:35198
+Dec 30 02:59 : client: [684] closed
+Dec 30 02:59 : client: [685] opened from 127.0.0.1:35204
+Dec 30 02:59 : client: [685] closed
+Dec 30 02:59 : client: [686] opened from 127.0.0.1:35208
+Dec 30 02:59 : client: [686] closed
+Dec 30 02:59 : client: [687] opened from 127.0.0.1:35212
+Dec 30 02:59 : client: [687] closed
+Dec 30 02:59 : client: [688] opened from 127.0.0.1:35216
+Dec 30 02:59 : client: [688] closed
+Dec 30 02:59 : player: played "BONES - ArtesianWater.mp3"
+Dec 30 02:59 : client: [689] opened from 127.0.0.1:35220
+Dec 30 02:59 : client: [689] closed
+Dec 30 02:59 : client: [690] opened from 127.0.0.1:35224
+Dec 30 02:59 : client: [690] closed
+Dec 30 02:59 : client: [691] opened from 127.0.0.1:35228
+Dec 30 02:59 : client: [691] closed
+Dec 30 02:59 : client: [692] opened from 127.0.0.1:35232
+Dec 30 02:59 : client: [692] closed
+Dec 30 02:59 : client: [693] opened from 127.0.0.1:35236
+Dec 30 02:59 : client: [693] closed
+Dec 30 02:59 : client: [694] opened from 127.0.0.1:35240
+Dec 30 02:59 : client: [694] closed
+Dec 30 02:59 : client: [695] opened from 127.0.0.1:35250
+Dec 30 02:59 : client: [695] closed
+Dec 30 02:59 : client: [696] opened from 127.0.0.1:35254
+Dec 30 02:59 : client: [696] closed
+Dec 30 02:59 : client: [697] opened from 127.0.0.1:35260
+Dec 30 02:59 : client: [697] closed
+Dec 30 02:59 : client: [698] opened from 127.0.0.1:35264
+Dec 30 02:59 : client: [698] closed
+Dec 30 02:59 : client: [699] opened from 127.0.0.1:35268
+Dec 30 02:59 : client: [699] closed
+Dec 30 02:59 : client: [700] opened from 127.0.0.1:35272
+Dec 30 02:59 : client: [700] closed
+Dec 30 02:59 : client: [701] opened from 127.0.0.1:35276
+Dec 30 02:59 : client: [701] closed
+Dec 30 02:59 : client: [702] opened from 127.0.0.1:35280
+Dec 30 02:59 : client: [702] closed
+Dec 30 02:59 : client: [703] opened from 127.0.0.1:35284
+Dec 30 02:59 : client: [703] closed
+Dec 30 02:59 : client: [704] opened from 127.0.0.1:35288
+Dec 30 02:59 : client: [704] closed
+Dec 30 02:59 : client: [705] opened from 127.0.0.1:35292
+Dec 30 02:59 : client: [705] closed
+Dec 30 02:59 : client: [706] opened from 127.0.0.1:35296
+Dec 30 02:59 : client: [706] closed
+Dec 30 02:59 : client: [707] opened from 127.0.0.1:35300
+Dec 30 02:59 : client: [707] closed
+Dec 30 02:59 : client: [708] opened from 127.0.0.1:35304
+Dec 30 02:59 : client: [708] closed
+Dec 30 02:59 : client: [709] opened from 127.0.0.1:35308
+Dec 30 02:59 : client: [709] closed
+Dec 30 02:59 : client: [710] opened from 127.0.0.1:35312
+Dec 30 02:59 : client: [710] closed
+Dec 30 02:59 : client: [711] opened from 127.0.0.1:35316
+Dec 30 02:59 : client: [711] closed
+Dec 30 02:59 : client: [712] opened from 127.0.0.1:35320
+Dec 30 02:59 : client: [712] closed
+Dec 30 02:59 : client: [713] opened from 127.0.0.1:35324
+Dec 30 02:59 : client: [713] closed
+Dec 30 02:59 : client: [714] opened from 127.0.0.1:35328
+Dec 30 02:59 : client: [714] closed
+Dec 30 02:59 : client: [715] opened from 127.0.0.1:35332
+Dec 30 02:59 : client: [715] closed
+Dec 30 02:59 : client: [716] opened from 127.0.0.1:35336
+Dec 30 02:59 : client: [716] closed
+Dec 30 02:59 : client: [717] opened from 127.0.0.1:35340
+Dec 30 02:59 : client: [717] closed
+Dec 30 02:59 : client: [718] opened from 127.0.0.1:35344
+Dec 30 02:59 : client: [718] closed
+Dec 30 02:59 : client: [719] opened from 127.0.0.1:35348
+Dec 30 02:59 : client: [719] closed
+Dec 30 02:59 : client: [720] opened from 127.0.0.1:35352
+Dec 30 02:59 : client: [720] closed
+Dec 30 02:59 : client: [721] opened from 127.0.0.1:35356
+Dec 30 02:59 : client: [721] closed
+Dec 30 02:59 : client: [722] opened from 127.0.0.1:35360
+Dec 30 02:59 : client: [722] closed
+Dec 30 02:59 : client: [723] opened from 127.0.0.1:35364
+Dec 30 02:59 : client: [723] closed
+Dec 30 02:59 : client: [724] opened from 127.0.0.1:35368
+Dec 30 02:59 : client: [724] closed
+Dec 30 02:59 : client: [725] opened from 127.0.0.1:35374
+Dec 30 02:59 : client: [725] closed
+Dec 30 02:59 : client: [726] opened from 127.0.0.1:35378
+Dec 30 02:59 : client: [726] closed
+Dec 30 02:59 : client: [727] opened from 127.0.0.1:35384
+Dec 30 02:59 : client: [727] closed
+Dec 30 02:59 : client: [728] opened from 127.0.0.1:35388
+Dec 30 02:59 : client: [728] closed
+Dec 30 02:59 : client: [729] opened from 127.0.0.1:35392
+Dec 30 02:59 : client: [729] closed
+Dec 30 02:59 : client: [730] opened from 127.0.0.1:35396
+Dec 30 02:59 : client: [730] closed
+Dec 30 02:59 : client: [731] opened from 127.0.0.1:35400
+Dec 30 02:59 : client: [731] closed
+Dec 30 02:59 : client: [732] opened from 127.0.0.1:35404
+Dec 30 02:59 : client: [732] closed
+Dec 30 02:59 : client: [733] opened from 127.0.0.1:35408
+Dec 30 02:59 : client: [733] closed
+Dec 30 02:59 : client: [734] opened from 127.0.0.1:35412
+Dec 30 02:59 : client: [734] closed
+Dec 30 02:59 : client: [735] opened from 127.0.0.1:35416
+Dec 30 02:59 : client: [735] closed
+Dec 30 02:59 : client: [736] opened from 127.0.0.1:35420
+Dec 30 02:59 : client: [736] closed
+Dec 30 02:59 : client: [737] opened from 127.0.0.1:35424
+Dec 30 02:59 : client: [737] closed
+Dec 30 02:59 : client: [738] opened from 127.0.0.1:35428
+Dec 30 02:59 : client: [738] closed
+Dec 30 02:59 : client: [739] opened from 127.0.0.1:35442
+Dec 30 02:59 : client: [739] closed
+Dec 30 02:59 : client: [740] opened from 127.0.0.1:35446
+Dec 30 02:59 : client: [740] closed
+Dec 30 02:59 : client: [741] opened from 127.0.0.1:35452
+Dec 30 02:59 : client: [741] closed
+Dec 30 02:59 : client: [742] opened from 127.0.0.1:35456
+Dec 30 02:59 : client: [742] closed
+Dec 30 02:59 : client: [743] opened from 127.0.0.1:35460
+Dec 30 02:59 : client: [743] closed
+Dec 30 02:59 : client: [744] opened from 127.0.0.1:35464
+Dec 30 02:59 : client: [744] closed
+Dec 30 02:59 : client: [745] opened from 127.0.0.1:35478
+Dec 30 02:59 : client: [745] closed
+Dec 30 02:59 : client: [746] opened from 127.0.0.1:35482
+Dec 30 02:59 : client: [746] closed
+Dec 30 02:59 : client: [747] opened from 127.0.0.1:35488
+Dec 30 02:59 : client: [747] closed
+Dec 30 02:59 : client: [748] opened from 127.0.0.1:35492
+Dec 30 02:59 : client: [748] closed
+Dec 30 02:59 : client: [749] opened from 127.0.0.1:35496
+Dec 30 02:59 : client: [749] closed
+Dec 30 02:59 : client: [750] opened from 127.0.0.1:35500
+Dec 30 02:59 : client: [750] closed
+Dec 30 02:59 : client: [751] opened from 127.0.0.1:35504
+Dec 30 02:59 : client: [751] closed
+Dec 30 02:59 : client: [752] opened from 127.0.0.1:35508
+Dec 30 02:59 : client: [752] closed
+Dec 30 02:59 : client: [753] opened from 127.0.0.1:35512
+Dec 30 02:59 : client: [753] closed
+Dec 30 02:59 : client: [754] opened from 127.0.0.1:35516
+Dec 30 02:59 : client: [754] closed
+Dec 30 02:59 : client: [755] opened from 127.0.0.1:35520
+Dec 30 02:59 : client: [755] closed
+Dec 30 02:59 : client: [756] opened from 127.0.0.1:35524
+Dec 30 02:59 : client: [756] closed
+Dec 30 02:59 : client: [757] opened from 127.0.0.1:35528
+Dec 30 02:59 : client: [757] closed
+Dec 30 02:59 : client: [758] opened from 127.0.0.1:35532
+Dec 30 02:59 : client: [758] closed
+Dec 30 02:59 : client: [759] opened from 127.0.0.1:35536
+Dec 30 02:59 : client: [759] closed
+Dec 30 02:59 : client: [760] opened from 127.0.0.1:35540
+Dec 30 02:59 : client: [760] closed
+Dec 30 02:59 : client: [761] opened from 127.0.0.1:35544
+Dec 30 02:59 : client: [761] closed
+Dec 30 02:59 : client: [762] opened from 127.0.0.1:35548
+Dec 30 02:59 : client: [762] closed
+Dec 30 02:59 : client: [763] opened from 127.0.0.1:35552
+Dec 30 02:59 : client: [763] closed
+Dec 30 02:59 : client: [764] opened from 127.0.0.1:35556
+Dec 30 02:59 : client: [764] closed
+Dec 30 02:59 : client: [765] opened from 127.0.0.1:35560
+Dec 30 02:59 : client: [765] closed
+Dec 30 02:59 : client: [766] opened from 127.0.0.1:35564
+Dec 30 02:59 : client: [766] closed
+Dec 30 02:59 : client: [767] opened from 127.0.0.1:35568
+Dec 30 02:59 : client: [767] closed
+Dec 30 02:59 : client: [768] opened from 127.0.0.1:35572
+Dec 30 02:59 : client: [768] closed
+Dec 30 02:59 : client: [769] opened from 127.0.0.1:35576
+Dec 30 02:59 : client: [769] closed
+Dec 30 02:59 : client: [770] opened from 127.0.0.1:35580
+Dec 30 02:59 : client: [770] closed
+Dec 30 02:59 : client: [771] opened from 127.0.0.1:35584
+Dec 30 02:59 : client: [771] closed
+Dec 30 02:59 : client: [772] opened from 127.0.0.1:35588
+Dec 30 02:59 : client: [772] closed
+Dec 30 02:59 : client: [773] opened from 127.0.0.1:35594
+Dec 30 02:59 : client: [773] closed
+Dec 30 02:59 : client: [774] opened from 127.0.0.1:35598
+Dec 30 02:59 : client: [774] closed
+Dec 30 02:59 : client: [775] opened from 127.0.0.1:35614
+Dec 30 02:59 : client: [775] closed
+Dec 30 02:59 : client: [776] opened from 127.0.0.1:35618
+Dec 30 02:59 : client: [776] closed
+Dec 30 02:59 : client: [777] opened from 127.0.0.1:35632
+Dec 30 02:59 : client: [777] closed
+Dec 30 02:59 : client: [778] opened from 127.0.0.1:35636
+Dec 30 02:59 : client: [778] closed
+Dec 30 02:59 : client: [779] opened from 127.0.0.1:35640
+Dec 30 02:59 : client: [779] closed
+Dec 30 02:59 : client: [780] opened from 127.0.0.1:35644
+Dec 30 02:59 : client: [780] closed
+Dec 30 02:59 : client: [781] opened from 127.0.0.1:35648
+Dec 30 02:59 : client: [781] closed
+Dec 30 02:59 : client: [782] opened from 127.0.0.1:35652
+Dec 30 02:59 : client: [782] closed
+Dec 30 02:59 : client: [783] opened from 127.0.0.1:35656
+Dec 30 02:59 : client: [783] closed
+Dec 30 02:59 : client: [784] opened from 127.0.0.1:35660
+Dec 30 02:59 : client: [784] closed
+Dec 30 02:59 : client: [785] opened from 127.0.0.1:35664
+Dec 30 02:59 : client: [785] closed
+Dec 30 02:59 : client: [786] opened from 127.0.0.1:35668
+Dec 30 02:59 : client: [786] closed
+Dec 30 02:59 : client: [787] opened from 127.0.0.1:35672
+Dec 30 02:59 : client: [787] closed
+Dec 30 02:59 : client: [788] opened from 127.0.0.1:35676
+Dec 30 02:59 : client: [788] closed
+Dec 30 03:00 : client: [789] opened from 127.0.0.1:35680
+Dec 30 03:00 : client: [789] closed
+Dec 30 03:00 : client: [790] opened from 127.0.0.1:35684
+Dec 30 03:00 : client: [790] closed
+Dec 30 03:00 : client: [791] opened from 127.0.0.1:35688
+Dec 30 03:00 : client: [791] closed
+Dec 30 03:00 : client: [792] opened from 127.0.0.1:35692
+Dec 30 03:00 : client: [792] closed
+Dec 30 03:00 : client: [793] opened from 127.0.0.1:35696
+Dec 30 03:00 : client: [793] closed
+Dec 30 03:00 : client: [794] opened from 127.0.0.1:35700
+Dec 30 03:00 : client: [794] closed
+Dec 30 03:00 : client: [795] opened from 127.0.0.1:35704
+Dec 30 03:00 : client: [795] closed
+Dec 30 03:00 : client: [796] opened from 127.0.0.1:35708
+Dec 30 03:00 : client: [796] closed
+Dec 30 03:00 : client: [797] opened from 127.0.0.1:35712
+Dec 30 03:00 : client: [797] closed
+Dec 30 03:00 : client: [798] opened from 127.0.0.1:35716
+Dec 30 03:00 : client: [798] closed
+Dec 30 03:00 : client: [799] opened from 127.0.0.1:35720
+Dec 30 03:00 : client: [799] closed
+Dec 30 03:00 : client: [800] opened from 127.0.0.1:35724
+Dec 30 03:00 : client: [800] closed
+Dec 30 03:00 : client: [801] opened from 127.0.0.1:35728
+Dec 30 03:00 : client: [801] closed
+Dec 30 03:00 : client: [802] opened from 127.0.0.1:35732
+Dec 30 03:00 : client: [802] closed
+Dec 30 03:00 : client: [803] opened from 127.0.0.1:35736
+Dec 30 03:00 : client: [803] closed
+Dec 30 03:00 : client: [804] opened from 127.0.0.1:35740
+Dec 30 03:00 : client: [804] closed
+Dec 30 03:00 : client: [805] opened from 127.0.0.1:35744
+Dec 30 03:00 : client: [805] closed
+Dec 30 03:00 : client: [806] opened from 127.0.0.1:35748
+Dec 30 03:00 : client: [806] closed
+Dec 30 03:00 : client: [807] opened from 127.0.0.1:35752
+Dec 30 03:00 : client: [807] closed
+Dec 30 03:00 : client: [808] opened from 127.0.0.1:35756
+Dec 30 03:00 : client: [808] closed
+Dec 30 03:00 : client: [809] opened from 127.0.0.1:35762
+Dec 30 03:00 : client: [809] closed
+Dec 30 03:00 : client: [810] opened from 127.0.0.1:35766
+Dec 30 03:00 : client: [810] closed
+Dec 30 03:00 : client: [811] opened from 127.0.0.1:35772
+Dec 30 03:00 : client: [811] closed
+Dec 30 03:00 : client: [812] opened from 127.0.0.1:35776
+Dec 30 03:00 : client: [812] closed
+Dec 30 03:00 : client: [813] opened from 127.0.0.1:35780
+Dec 30 03:00 : client: [813] closed
+Dec 30 03:00 : client: [814] opened from 127.0.0.1:35784
+Dec 30 03:00 : client: [814] closed
+Dec 30 03:00 : client: [815] opened from 127.0.0.1:35788
+Dec 30 03:00 : client: [815] closed
+Dec 30 03:00 : client: [816] opened from 127.0.0.1:35792
+Dec 30 03:00 : client: [816] closed
+Dec 30 03:00 : client: [817] opened from 127.0.0.1:35796
+Dec 30 03:00 : client: [817] closed
+Dec 30 03:00 : client: [818] opened from 127.0.0.1:35800
+Dec 30 03:00 : client: [818] closed
+Dec 30 03:00 : client: [819] opened from 127.0.0.1:35804
+Dec 30 03:00 : client: [819] closed
+Dec 30 03:00 : client: [820] opened from 127.0.0.1:35808
+Dec 30 03:00 : client: [820] closed
+Dec 30 03:00 : client: [821] opened from 127.0.0.1:35812
+Dec 30 03:00 : client: [821] closed
+Dec 30 03:00 : client: [822] opened from 127.0.0.1:35816
+Dec 30 03:00 : client: [822] closed
+Dec 30 03:00 : client: [823] opened from 127.0.0.1:35820
+Dec 30 03:00 : client: [823] closed
+Dec 30 03:00 : client: [824] opened from 127.0.0.1:35824
+Dec 30 03:00 : client: [824] closed
+Dec 30 03:00 : client: [825] opened from 127.0.0.1:35828
+Dec 30 03:00 : client: [825] closed
+Dec 30 03:00 : client: [826] opened from 127.0.0.1:35832
+Dec 30 03:00 : client: [826] closed
+Dec 30 03:00 : client: [827] opened from 127.0.0.1:35836
+Dec 30 03:00 : client: [827] closed
+Dec 30 03:00 : client: [828] opened from 127.0.0.1:35840
+Dec 30 03:00 : client: [828] closed
+Dec 30 03:00 : client: [829] opened from 127.0.0.1:35844
+Dec 30 03:00 : client: [829] closed
+Dec 30 03:00 : client: [830] opened from 127.0.0.1:35848
+Dec 30 03:00 : client: [830] closed
+Dec 30 03:00 : client: [831] opened from 127.0.0.1:35852
+Dec 30 03:00 : client: [831] closed
+Dec 30 03:00 : client: [832] opened from 127.0.0.1:35856
+Dec 30 03:00 : client: [832] closed
+Dec 30 03:00 : client: [833] opened from 127.0.0.1:35860
+Dec 30 03:00 : client: [833] closed
+Dec 30 03:00 : client: [834] opened from 127.0.0.1:35864
+Dec 30 03:00 : client: [834] closed
+Dec 30 03:00 : client: [835] opened from 127.0.0.1:35868
+Dec 30 03:00 : client: [835] closed
+Dec 30 03:00 : client: [836] opened from 127.0.0.1:35872
+Dec 30 03:00 : client: [836] closed
+Dec 30 03:00 : client: [837] opened from 127.0.0.1:35876
+Dec 30 03:00 : client: [837] closed
+Dec 30 03:00 : client: [838] opened from 127.0.0.1:35880
+Dec 30 03:00 : client: [838] closed
+Dec 30 03:00 : client: [839] opened from 127.0.0.1:35884
+Dec 30 03:00 : client: [839] closed
+Dec 30 03:00 : client: [840] opened from 127.0.0.1:35888
+Dec 30 03:00 : client: [840] closed
+Dec 30 03:00 : client: [841] opened from 127.0.0.1:35892
+Dec 30 03:00 : client: [841] closed
+Dec 30 03:00 : client: [842] opened from 127.0.0.1:35896
+Dec 30 03:00 : client: [842] closed
+Dec 30 03:00 : client: [843] opened from 127.0.0.1:35900
+Dec 30 03:00 : client: [843] closed
+Dec 30 03:00 : client: [844] opened from 127.0.0.1:35904
+Dec 30 03:00 : client: [844] closed
+Dec 30 03:00 : client: [845] opened from 127.0.0.1:35914
+Dec 30 03:00 : client: [845] closed
+Dec 30 03:00 : client: [846] opened from 127.0.0.1:35918
+Dec 30 03:00 : client: [846] closed
+Dec 30 03:00 : client: [847] opened from 127.0.0.1:35924
+Dec 30 03:00 : client: [847] closed
+Dec 30 03:00 : client: [848] opened from 127.0.0.1:35928
+Dec 30 03:00 : client: [848] closed
+Dec 30 03:00 : client: [849] opened from 127.0.0.1:35932
+Dec 30 03:00 : client: [849] closed
+Dec 30 03:00 : client: [850] opened from 127.0.0.1:35936
+Dec 30 03:00 : client: [850] closed
+Dec 30 03:00 : client: [851] opened from 127.0.0.1:35940
+Dec 30 03:00 : client: [851] closed
+Dec 30 03:00 : client: [852] opened from 127.0.0.1:35944
+Dec 30 03:00 : client: [852] closed
+Dec 30 03:00 : client: [853] opened from 127.0.0.1:35948
+Dec 30 03:00 : client: [853] closed
+Dec 30 03:00 : client: [854] opened from 127.0.0.1:35952
+Dec 30 03:00 : client: [854] closed
+Dec 30 03:00 : client: [855] opened from 127.0.0.1:35956
+Dec 30 03:00 : client: [855] closed
+Dec 30 03:00 : client: [856] opened from 127.0.0.1:35960
+Dec 30 03:00 : client: [856] closed
+Dec 30 03:00 : client: [857] opened from 127.0.0.1:35964
+Dec 30 03:00 : client: [857] closed
+Dec 30 03:00 : client: [858] opened from 127.0.0.1:35968
+Dec 30 03:00 : client: [858] closed
+Dec 30 03:00 : client: [859] opened from 127.0.0.1:35972
+Dec 30 03:00 : client: [859] closed
+Dec 30 03:00 : client: [860] opened from 127.0.0.1:35976
+Dec 30 03:00 : client: [860] closed
+Dec 30 03:00 : client: [861] opened from 127.0.0.1:35980
+Dec 30 03:00 : client: [861] closed
+Dec 30 03:00 : client: [862] opened from 127.0.0.1:35984
+Dec 30 03:00 : client: [862] closed
+Dec 30 03:00 : client: [863] opened from 127.0.0.1:35988
+Dec 30 03:00 : client: [863] closed
+Dec 30 03:00 : client: [864] opened from 127.0.0.1:35992
+Dec 30 03:00 : client: [864] closed
+Dec 30 03:00 : client: [865] opened from 127.0.0.1:35996
+Dec 30 03:00 : client: [865] closed
+Dec 30 03:00 : client: [866] opened from 127.0.0.1:36000
+Dec 30 03:00 : client: [866] closed
+Dec 30 03:00 : client: [867] opened from 127.0.0.1:36004
+Dec 30 03:00 : client: [867] closed
+Dec 30 03:00 : client: [868] opened from 127.0.0.1:36008
+Dec 30 03:00 : client: [868] closed
+Dec 30 03:00 : client: [869] opened from 127.0.0.1:36012
+Dec 30 03:00 : client: [869] closed
+Dec 30 03:00 : client: [870] opened from 127.0.0.1:36016
+Dec 30 03:00 : client: [870] closed
+Dec 30 03:00 : client: [871] opened from 127.0.0.1:36020
+Dec 30 03:00 : client: [871] closed
+Dec 30 03:00 : client: [872] opened from 127.0.0.1:36024
+Dec 30 03:00 : client: [872] closed
+Dec 30 03:00 : client: [873] opened from 127.0.0.1:36030
+Dec 30 03:00 : client: [873] closed
+Dec 30 03:00 : client: [874] opened from 127.0.0.1:36034
+Dec 30 03:00 : client: [874] closed
+Dec 30 03:00 : client: [875] opened from 127.0.0.1:36044
+Dec 30 03:00 : client: [875] closed
+Dec 30 03:00 : client: [876] opened from 127.0.0.1:36048
+Dec 30 03:00 : client: [876] closed
+Dec 30 03:00 : client: [877] opened from 127.0.0.1:36052
+Dec 30 03:00 : client: [877] closed
+Dec 30 03:00 : client: [878] opened from 127.0.0.1:36056
+Dec 30 03:00 : client: [878] closed
+Dec 30 03:00 : client: [879] opened from 127.0.0.1:36060
+Dec 30 03:00 : client: [879] closed
+Dec 30 03:00 : client: [880] opened from 127.0.0.1:36064
+Dec 30 03:00 : client: [880] closed
+Dec 30 03:00 : client: [881] opened from 127.0.0.1:36068
+Dec 30 03:00 : client: [881] closed
+Dec 30 03:00 : client: [882] opened from 127.0.0.1:36072
+Dec 30 03:00 : client: [882] closed
+Dec 30 03:00 : client: [883] opened from 127.0.0.1:36076
+Dec 30 03:00 : client: [883] closed
+Dec 30 03:00 : client: [884] opened from 127.0.0.1:36080
+Dec 30 03:00 : client: [884] closed
+Dec 30 03:00 : client: [885] opened from 127.0.0.1:36084
+Dec 30 03:00 : client: [885] closed
+Dec 30 03:00 : client: [886] opened from 127.0.0.1:36088
+Dec 30 03:00 : client: [886] closed
+Dec 30 03:00 : client: [887] opened from 127.0.0.1:36092
+Dec 30 03:00 : client: [887] closed
+Dec 30 03:00 : client: [888] opened from 127.0.0.1:36096
+Dec 30 03:00 : client: [888] closed
+Dec 30 03:00 : client: [889] opened from 127.0.0.1:36100
+Dec 30 03:00 : client: [889] closed
+Dec 30 03:00 : client: [890] opened from 127.0.0.1:36104
+Dec 30 03:00 : client: [890] closed
+Dec 30 03:00 : client: [891] opened from 127.0.0.1:36108
+Dec 30 03:00 : client: [891] closed
+Dec 30 03:00 : client: [892] opened from 127.0.0.1:36112
+Dec 30 03:00 : client: [892] closed
+Dec 30 03:00 : client: [893] opened from 127.0.0.1:36116
+Dec 30 03:00 : client: [893] closed
+Dec 30 03:00 : client: [894] opened from 127.0.0.1:36120
+Dec 30 03:00 : client: [894] closed
+Dec 30 03:00 : client: [895] opened from 127.0.0.1:36124
+Dec 30 03:00 : client: [895] closed
+Dec 30 03:00 : client: [896] opened from 127.0.0.1:36128
+Dec 30 03:00 : client: [896] closed
+Dec 30 03:00 : client: [897] opened from 127.0.0.1:36132
+Dec 30 03:00 : client: [897] closed
+Dec 30 03:00 : client: [898] opened from 127.0.0.1:36136
+Dec 30 03:00 : client: [898] closed
+Dec 30 03:00 : client: [899] opened from 127.0.0.1:36140
+Dec 30 03:00 : client: [899] closed
+Dec 30 03:00 : client: [900] opened from 127.0.0.1:36144
+Dec 30 03:00 : client: [900] closed
+Dec 30 03:00 : client: [901] opened from 127.0.0.1:36148
+Dec 30 03:00 : client: [901] closed
+Dec 30 03:00 : client: [902] opened from 127.0.0.1:36152
+Dec 30 03:00 : client: [902] closed
+Dec 30 03:00 : client: [903] opened from 127.0.0.1:36156
+Dec 30 03:00 : client: [903] closed
+Dec 30 03:00 : client: [904] opened from 127.0.0.1:36160
+Dec 30 03:00 : client: [904] closed
+Dec 30 03:00 : client: [905] opened from 127.0.0.1:36164
+Dec 30 03:00 : client: [905] closed
+Dec 30 03:00 : client: [906] opened from 127.0.0.1:36168
+Dec 30 03:00 : client: [906] closed
+Dec 30 03:00 : client: [907] opened from 127.0.0.1:36172
+Dec 30 03:00 : client: [907] closed
+Dec 30 03:00 : client: [908] opened from 127.0.0.1:36176
+Dec 30 03:00 : client: [908] closed
+Dec 30 03:01 : client: [909] opened from 127.0.0.1:36180
+Dec 30 03:01 : client: [909] closed
+Dec 30 03:01 : client: [910] opened from 127.0.0.1:36184
+Dec 30 03:01 : client: [910] closed
+Dec 30 03:01 : client: [911] opened from 127.0.0.1:36188
+Dec 30 03:01 : client: [911] closed
+Dec 30 03:01 : client: [912] opened from 127.0.0.1:36192
+Dec 30 03:01 : client: [912] closed
+Dec 30 03:01 : client: [913] opened from 127.0.0.1:36196
+Dec 30 03:01 : client: [913] closed
+Dec 30 03:01 : client: [914] opened from 127.0.0.1:36200
+Dec 30 03:01 : client: [914] closed
+Dec 30 03:01 : client: [915] opened from 127.0.0.1:36204
+Dec 30 03:01 : client: [915] closed
+Dec 30 03:01 : client: [916] opened from 127.0.0.1:36208
+Dec 30 03:01 : client: [916] closed
+Dec 30 03:01 : client: [917] opened from 127.0.0.1:36212
+Dec 30 03:01 : client: [917] closed
+Dec 30 03:01 : client: [918] opened from 127.0.0.1:36216
+Dec 30 03:01 : client: [918] closed
+Dec 30 03:01 : client: [919] opened from 127.0.0.1:36220
+Dec 30 03:01 : client: [919] closed
+Dec 30 03:01 : client: [920] opened from 127.0.0.1:36224
+Dec 30 03:01 : client: [920] closed
+Dec 30 03:01 : client: [921] opened from 127.0.0.1:36228
+Dec 30 03:01 : client: [921] closed
+Dec 30 03:01 : client: [922] opened from 127.0.0.1:36232
+Dec 30 03:01 : client: [922] closed
+Dec 30 03:01 : client: [923] opened from 127.0.0.1:36236
+Dec 30 03:01 : client: [923] closed
+Dec 30 03:01 : client: [924] opened from 127.0.0.1:36240
+Dec 30 03:01 : client: [924] closed
+Dec 30 03:01 : client: [925] opened from 127.0.0.1:36244
+Dec 30 03:01 : client: [925] closed
+Dec 30 03:01 : client: [926] opened from 127.0.0.1:36248
+Dec 30 03:01 : client: [926] closed
+Dec 30 03:01 : client: [927] opened from 127.0.0.1:36252
+Dec 30 03:01 : client: [927] closed
+Dec 30 03:01 : client: [928] opened from 127.0.0.1:36256
+Dec 30 03:01 : client: [928] closed
+Dec 30 03:01 : client: [929] opened from 127.0.0.1:36260
+Dec 30 03:01 : client: [929] closed
+Dec 30 03:01 : client: [930] opened from 127.0.0.1:36264
+Dec 30 03:01 : client: [930] closed
+Dec 30 03:01 : client: [931] opened from 127.0.0.1:36268
+Dec 30 03:01 : client: [931] closed
+Dec 30 03:01 : client: [932] opened from 127.0.0.1:36272
+Dec 30 03:01 : client: [932] closed
+Dec 30 03:01 : client: [933] opened from 127.0.0.1:36276
+Dec 30 03:01 : client: [933] closed
+Dec 30 03:01 : client: [934] opened from 127.0.0.1:36280
+Dec 30 03:01 : client: [934] closed
+Dec 30 03:01 : client: [935] opened from 127.0.0.1:36284
+Dec 30 03:01 : client: [935] closed
+Dec 30 03:01 : client: [936] opened from 127.0.0.1:36288
+Dec 30 03:01 : client: [936] closed
+Dec 30 03:01 : client: [937] opened from 127.0.0.1:36292
+Dec 30 03:01 : client: [937] closed
+Dec 30 03:01 : client: [938] opened from 127.0.0.1:36296
+Dec 30 03:01 : client: [938] closed
+Dec 30 03:01 : client: [939] opened from 127.0.0.1:36300
+Dec 30 03:01 : client: [939] closed
+Dec 30 03:01 : client: [940] opened from 127.0.0.1:36304
+Dec 30 03:01 : client: [940] closed
+Dec 30 03:01 : client: [941] opened from 127.0.0.1:36308
+Dec 30 03:01 : client: [941] closed
+Dec 30 03:01 : client: [942] opened from 127.0.0.1:36312
+Dec 30 03:01 : client: [942] closed
+Dec 30 03:01 : client: [943] opened from 127.0.0.1:36316
+Dec 30 03:01 : client: [943] closed
+Dec 30 03:01 : client: [944] opened from 127.0.0.1:36320
+Dec 30 03:01 : client: [944] closed
+Dec 30 03:01 : client: [945] opened from 127.0.0.1:36324
+Dec 30 03:01 : client: [945] closed
+Dec 30 03:01 : client: [946] opened from 127.0.0.1:36328
+Dec 30 03:01 : client: [946] closed
+Dec 30 03:01 : client: [947] opened from 127.0.0.1:36332
+Dec 30 03:01 : client: [947] closed
+Dec 30 03:01 : client: [948] opened from 127.0.0.1:36336
+Dec 30 03:01 : client: [948] closed
+Dec 30 03:01 : client: [949] opened from 127.0.0.1:36340
+Dec 30 03:01 : client: [949] closed
+Dec 30 03:01 : client: [950] opened from 127.0.0.1:36344
+Dec 30 03:01 : client: [950] closed
+Dec 30 03:01 : client: [951] opened from 127.0.0.1:36348
+Dec 30 03:01 : client: [951] closed
+Dec 30 03:01 : client: [952] opened from 127.0.0.1:36352
+Dec 30 03:01 : client: [952] closed
+Dec 30 03:01 : client: [953] opened from 127.0.0.1:36356
+Dec 30 03:01 : client: [953] closed
+Dec 30 03:01 : client: [954] opened from 127.0.0.1:36360
+Dec 30 03:01 : client: [954] closed
+Dec 30 03:01 : client: [955] opened from 127.0.0.1:36364
+Dec 30 03:01 : client: [955] closed
+Dec 30 03:01 : client: [956] opened from 127.0.0.1:36368
+Dec 30 03:01 : client: [956] closed
+Dec 30 03:01 : client: [957] opened from 127.0.0.1:36372
+Dec 30 03:01 : client: [957] closed
+Dec 30 03:01 : client: [958] opened from 127.0.0.1:36376
+Dec 30 03:01 : client: [958] closed
+Dec 30 03:01 : player: played "BONES - DeadBoy.mp3"
+Dec 30 03:01 : client: [959] opened from 127.0.0.1:36380
+Dec 30 03:01 : client: [959] closed
+Dec 30 03:01 : client: [960] opened from 127.0.0.1:36384
+Dec 30 03:01 : client: [960] closed
+Dec 30 03:01 : client: [961] opened from 127.0.0.1:36388
+Dec 30 03:01 : client: [961] closed
+Dec 30 03:01 : client: [962] opened from 127.0.0.1:36392
+Dec 30 03:01 : client: [962] closed
+Dec 30 03:01 : client: [963] opened from 127.0.0.1:36396
+Dec 30 03:01 : client: [963] closed
+Dec 30 03:01 : client: [964] opened from 127.0.0.1:36400
+Dec 30 03:01 : client: [964] closed
+Dec 30 03:01 : client: [965] opened from 127.0.0.1:36404
+Dec 30 03:01 : client: [965] closed
+Dec 30 03:01 : client: [966] opened from 127.0.0.1:36408
+Dec 30 03:01 : client: [966] closed
+Dec 30 03:01 : client: [967] opened from 127.0.0.1:36412
+Dec 30 03:01 : client: [967] closed
+Dec 30 03:01 : client: [968] opened from 127.0.0.1:36416
+Dec 30 03:01 : client: [968] closed
+Dec 30 03:01 : client: [969] opened from 127.0.0.1:36420
+Dec 30 03:01 : client: [969] closed
+Dec 30 03:01 : client: [970] opened from 127.0.0.1:36424
+Dec 30 03:01 : client: [970] closed
+Dec 30 03:01 : client: [971] opened from 127.0.0.1:36428
+Dec 30 03:01 : client: [971] closed
+Dec 30 03:01 : client: [972] opened from 127.0.0.1:36432
+Dec 30 03:01 : client: [972] closed
+Dec 30 03:01 : client: [973] opened from 127.0.0.1:36436
+Dec 30 03:01 : client: [973] closed
+Dec 30 03:01 : client: [974] opened from 127.0.0.1:36440
+Dec 30 03:01 : client: [974] closed
+Dec 30 03:01 : client: [975] opened from 127.0.0.1:36444
+Dec 30 03:01 : client: [975] closed
+Dec 30 03:01 : client: [976] opened from 127.0.0.1:36448
+Dec 30 03:01 : client: [976] closed
+Dec 30 03:01 : client: [977] opened from 127.0.0.1:36452
+Dec 30 03:01 : client: [977] closed
+Dec 30 03:01 : client: [978] opened from 127.0.0.1:36456
+Dec 30 03:01 : client: [978] closed
+Dec 30 03:01 : client: [979] opened from 127.0.0.1:36460
+Dec 30 03:01 : client: [979] closed
+Dec 30 03:01 : client: [980] opened from 127.0.0.1:36464
+Dec 30 03:01 : client: [980] closed
+Dec 30 03:01 : client: [981] opened from 127.0.0.1:36468
+Dec 30 03:01 : client: [981] closed
+Dec 30 03:01 : client: [982] opened from 127.0.0.1:36472
+Dec 30 03:01 : client: [982] closed
+Dec 30 03:01 : client: [983] opened from 127.0.0.1:36476
+Dec 30 03:01 : client: [983] closed
+Dec 30 03:01 : client: [984] opened from 127.0.0.1:36480
+Dec 30 03:01 : client: [984] closed
+Dec 30 03:01 : client: [985] opened from 127.0.0.1:36484
+Dec 30 03:01 : client: [985] closed
+Dec 30 03:01 : client: [986] opened from 127.0.0.1:36488
+Dec 30 03:01 : client: [986] closed
+Dec 30 03:01 : client: [987] opened from 127.0.0.1:36492
+Dec 30 03:01 : client: [987] closed
+Dec 30 03:01 : client: [988] opened from 127.0.0.1:36496
+Dec 30 03:01 : client: [988] closed
+Dec 30 03:01 : client: [989] opened from 127.0.0.1:36500
+Dec 30 03:01 : client: [989] closed
+Dec 30 03:01 : client: [990] opened from 127.0.0.1:36504
+Dec 30 03:01 : client: [990] closed
+Dec 30 03:01 : client: [991] opened from 127.0.0.1:36508
+Dec 30 03:01 : client: [991] closed
+Dec 30 03:01 : client: [992] opened from 127.0.0.1:36512
+Dec 30 03:01 : client: [992] closed
+Dec 30 03:01 : client: [993] opened from 127.0.0.1:36516
+Dec 30 03:01 : client: [993] closed
+Dec 30 03:01 : client: [994] opened from 127.0.0.1:36520
+Dec 30 03:01 : client: [994] closed
+Dec 30 03:01 : client: [995] opened from 127.0.0.1:36524
+Dec 30 03:01 : client: [995] closed
+Dec 30 03:01 : client: [996] opened from 127.0.0.1:36528
+Dec 30 03:01 : client: [996] closed
+Dec 30 03:01 : client: [997] opened from 127.0.0.1:36532
+Dec 30 03:01 : client: [997] closed
+Dec 30 03:01 : client: [998] opened from 127.0.0.1:36536
+Dec 30 03:01 : client: [998] closed
+Dec 30 03:01 : client: [999] opened from 127.0.0.1:36540
+Dec 30 03:01 : client: [999] closed
+Dec 30 03:01 : client: [1000] opened from 127.0.0.1:36544
+Dec 30 03:01 : client: [1000] closed
+Dec 30 03:01 : client: [1001] opened from 127.0.0.1:36548
+Dec 30 03:01 : client: [1001] closed
+Dec 30 03:01 : client: [1002] opened from 127.0.0.1:36552
+Dec 30 03:01 : client: [1002] closed
+Dec 30 03:01 : client: [1003] opened from 127.0.0.1:36556
+Dec 30 03:01 : client: [1003] closed
+Dec 30 03:01 : client: [1004] opened from 127.0.0.1:36560
+Dec 30 03:01 : client: [1004] closed
+Dec 30 03:01 : client: [1005] opened from 127.0.0.1:36564
+Dec 30 03:01 : client: [1005] closed
+Dec 30 03:01 : client: [1006] opened from 127.0.0.1:36568
+Dec 30 03:01 : client: [1006] closed
+Dec 30 03:01 : client: [1007] opened from 127.0.0.1:36572
+Dec 30 03:01 : client: [1007] closed
+Dec 30 03:01 : client: [1008] opened from 127.0.0.1:36576
+Dec 30 03:01 : client: [1008] closed
+Dec 30 03:01 : client: [1009] opened from 127.0.0.1:36580
+Dec 30 03:01 : client: [1009] closed
+Dec 30 03:01 : client: [1010] opened from 127.0.0.1:36584
+Dec 30 03:01 : client: [1010] closed
+Dec 30 03:01 : client: [1011] opened from 127.0.0.1:36588
+Dec 30 03:01 : client: [1011] closed
+Dec 30 03:01 : client: [1012] opened from 127.0.0.1:36592
+Dec 30 03:01 : client: [1012] closed
+Dec 30 03:01 : client: [1013] opened from 127.0.0.1:36596
+Dec 30 03:01 : client: [1013] closed
+Dec 30 03:01 : client: [1014] opened from 127.0.0.1:36600
+Dec 30 03:01 : client: [1014] closed
+Dec 30 03:01 : client: [1015] opened from 127.0.0.1:36604
+Dec 30 03:01 : client: [1015] closed
+Dec 30 03:01 : client: [1016] opened from 127.0.0.1:36608
+Dec 30 03:01 : client: [1016] closed
+Dec 30 03:01 : client: [1017] opened from 127.0.0.1:36612
+Dec 30 03:01 : client: [1017] closed
+Dec 30 03:01 : client: [1018] opened from 127.0.0.1:36616
+Dec 30 03:01 : client: [1018] closed
+Dec 30 03:01 : client: [1019] opened from 127.0.0.1:36620
+Dec 30 03:01 : client: [1019] closed
+Dec 30 03:01 : client: [1020] opened from 127.0.0.1:36624
+Dec 30 03:01 : client: [1020] closed
+Dec 30 03:01 : client: [1021] opened from 127.0.0.1:36628
+Dec 30 03:01 : client: [1021] closed
+Dec 30 03:01 : client: [1022] opened from 127.0.0.1:36632
+Dec 30 03:01 : client: [1022] closed
+Dec 30 03:01 : client: [1023] opened from 127.0.0.1:36636
+Dec 30 03:01 : client: [1023] closed
+Dec 30 03:01 : client: [1024] opened from 127.0.0.1:36640
+Dec 30 03:01 : client: [1024] closed
+Dec 30 03:01 : client: [1025] opened from 127.0.0.1:36644
+Dec 30 03:01 : client: [1025] closed
+Dec 30 03:01 : client: [1026] opened from 127.0.0.1:36648
+Dec 30 03:01 : client: [1026] closed
+Dec 30 03:01 : client: [1027] opened from 127.0.0.1:36652
+Dec 30 03:01 : client: [1027] closed
+Dec 30 03:01 : client: [1028] opened from 127.0.0.1:36656
+Dec 30 03:01 : client: [1028] closed
+Dec 30 03:02 : client: [1029] opened from 127.0.0.1:36660
+Dec 30 03:02 : client: [1029] closed
+Dec 30 03:02 : client: [1030] opened from 127.0.0.1:36664
+Dec 30 03:02 : client: [1030] closed
+Dec 30 03:02 : client: [1031] opened from 127.0.0.1:36668
+Dec 30 03:02 : client: [1031] closed
+Dec 30 03:02 : client: [1032] opened from 127.0.0.1:36672
+Dec 30 03:02 : client: [1032] closed
+Dec 30 03:02 : client: [1033] opened from 127.0.0.1:36676
+Dec 30 03:02 : client: [1033] closed
+Dec 30 03:02 : client: [1034] opened from 127.0.0.1:36680
+Dec 30 03:02 : client: [1034] closed
+Dec 30 03:02 : client: [1035] opened from 127.0.0.1:36684
+Dec 30 03:02 : client: [1035] closed
+Dec 30 03:02 : client: [1036] opened from 127.0.0.1:36688
+Dec 30 03:02 : client: [1036] closed
+Dec 30 03:02 : client: [1037] opened from 127.0.0.1:36692
+Dec 30 03:02 : client: [1037] closed
+Dec 30 03:02 : client: [1038] opened from 127.0.0.1:36696
+Dec 30 03:02 : client: [1038] closed
+Dec 30 03:02 : client: [1039] opened from 127.0.0.1:36700
+Dec 30 03:02 : client: [1039] closed
+Dec 30 03:02 : client: [1040] opened from 127.0.0.1:36704
+Dec 30 03:02 : client: [1040] closed
+Dec 30 03:02 : client: [1041] opened from 127.0.0.1:36708
+Dec 30 03:02 : client: [1041] closed
+Dec 30 03:02 : client: [1042] opened from 127.0.0.1:36712
+Dec 30 03:02 : client: [1042] closed
+Dec 30 03:02 : client: [1043] opened from 127.0.0.1:36716
+Dec 30 03:02 : client: [1043] closed
+Dec 30 03:02 : client: [1044] opened from 127.0.0.1:36720
+Dec 30 03:02 : client: [1044] closed
+Dec 30 03:02 : client: [1045] opened from 127.0.0.1:36724
+Dec 30 03:02 : client: [1045] closed
+Dec 30 03:02 : client: [1046] opened from 127.0.0.1:36728
+Dec 30 03:02 : client: [1046] closed
+Dec 30 03:02 : client: [1047] opened from 127.0.0.1:36736
+Dec 30 03:02 : client: [1047] closed
+Dec 30 03:02 : client: [1048] opened from 127.0.0.1:36740
+Dec 30 03:02 : client: [1048] closed
+Dec 30 03:02 : client: [1049] opened from 127.0.0.1:36744
+Dec 30 03:02 : client: [1049] closed
+Dec 30 03:02 : client: [1050] opened from 127.0.0.1:36748
+Dec 30 03:02 : client: [1050] closed
+Dec 30 03:02 : client: [1051] opened from 127.0.0.1:36752
+Dec 30 03:02 : client: [1051] closed
+Dec 30 03:02 : client: [1052] opened from 127.0.0.1:36756
+Dec 30 03:02 : client: [1052] closed
+Dec 30 03:02 : client: [1053] opened from 127.0.0.1:36760
+Dec 30 03:02 : client: [1053] closed
+Dec 30 03:02 : client: [1054] opened from 127.0.0.1:36764
+Dec 30 03:02 : client: [1054] closed
+Dec 30 03:02 : client: [1055] opened from 127.0.0.1:36768
+Dec 30 03:02 : client: [1055] closed
+Dec 30 03:02 : client: [1056] opened from 127.0.0.1:36772
+Dec 30 03:02 : client: [1056] closed
+Dec 30 03:02 : client: [1057] opened from 127.0.0.1:36776
+Dec 30 03:02 : client: [1057] closed
+Dec 30 03:02 : client: [1058] opened from 127.0.0.1:36780
+Dec 30 03:02 : client: [1058] closed
+Dec 30 03:02 : client: [1059] opened from 127.0.0.1:36784
+Dec 30 03:02 : client: [1059] closed
+Dec 30 03:02 : client: [1060] opened from 127.0.0.1:36788
+Dec 30 03:02 : client: [1060] closed
+Dec 30 03:02 : client: [1061] opened from 127.0.0.1:36796
+Dec 30 03:02 : client: [1061] closed
+Dec 30 03:02 : client: [1062] opened from 127.0.0.1:36800
+Dec 30 03:02 : client: [1062] closed
+Dec 30 03:02 : client: [1063] opened from 127.0.0.1:36812
+Dec 30 03:02 : client: [1063] closed
+Dec 30 03:02 : client: [1064] opened from 127.0.0.1:36816
+Dec 30 03:02 : client: [1064] closed
+Dec 30 03:02 : client: [1065] opened from 127.0.0.1:36824
+Dec 30 03:02 : client: [1065] closed
+Dec 30 03:02 : client: [1066] opened from 127.0.0.1:36828
+Dec 30 03:02 : client: [1066] closed
+Dec 30 03:02 : client: [1067] opened from 127.0.0.1:36832
+Dec 30 03:02 : client: [1067] closed
+Dec 30 03:02 : client: [1068] opened from 127.0.0.1:36836
+Dec 30 03:02 : client: [1068] closed
+Dec 30 03:02 : client: [1069] opened from 127.0.0.1:36840
+Dec 30 03:02 : client: [1069] closed
+Dec 30 03:02 : client: [1070] opened from 127.0.0.1:36844
+Dec 30 03:02 : client: [1070] closed
+Dec 30 03:02 : client: [1071] opened from 127.0.0.1:36848
+Dec 30 03:02 : client: [1071] closed
+Dec 30 03:02 : client: [1072] opened from 127.0.0.1:36852
+Dec 30 03:02 : client: [1072] closed
+Dec 30 03:02 : client: [1073] opened from 127.0.0.1:36856
+Dec 30 03:02 : client: [1073] closed
+Dec 30 03:02 : client: [1074] opened from 127.0.0.1:36860
+Dec 30 03:02 : client: [1074] closed
+Dec 30 03:02 : client: [1075] opened from 127.0.0.1:36864
+Dec 30 03:02 : client: [1075] closed
+Dec 30 03:02 : client: [1076] opened from 127.0.0.1:36868
+Dec 30 03:02 : client: [1076] closed
+Dec 30 03:02 : client: [1077] opened from 127.0.0.1:36872
+Dec 30 03:02 : client: [1077] closed
+Dec 30 03:02 : client: [1078] opened from 127.0.0.1:36876
+Dec 30 03:02 : client: [1078] closed
+Dec 30 03:02 : client: [1079] opened from 127.0.0.1:36880
+Dec 30 03:02 : client: [1079] closed
+Dec 30 03:02 : client: [1080] opened from 127.0.0.1:36884
+Dec 30 03:02 : client: [1080] closed
+Dec 30 03:02 : client: [1081] opened from 127.0.0.1:36888
+Dec 30 03:02 : client: [1081] closed
+Dec 30 03:02 : client: [1082] opened from 127.0.0.1:36892
+Dec 30 03:02 : client: [1082] closed
+Dec 30 03:02 : client: [1083] opened from 127.0.0.1:36896
+Dec 30 03:02 : client: [1083] closed
+Dec 30 03:02 : client: [1084] opened from 127.0.0.1:36900
+Dec 30 03:02 : client: [1084] closed
+Dec 30 03:02 : client: [1085] opened from 127.0.0.1:36904
+Dec 30 03:02 : client: [1085] closed
+Dec 30 03:02 : client: [1086] opened from 127.0.0.1:36908
+Dec 30 03:02 : client: [1086] closed
+Dec 30 03:02 : client: [1087] opened from 127.0.0.1:36912
+Dec 30 03:02 : client: [1087] closed
+Dec 30 03:02 : client: [1088] opened from 127.0.0.1:36916
+Dec 30 03:02 : client: [1088] closed
+Dec 30 03:02 : client: [1089] opened from 127.0.0.1:36920
+Dec 30 03:02 : client: [1089] closed
+Dec 30 03:02 : client: [1090] opened from 127.0.0.1:36924
+Dec 30 03:02 : client: [1090] closed
+Dec 30 03:02 : client: [1091] opened from 127.0.0.1:36928
+Dec 30 03:02 : client: [1091] closed
+Dec 30 03:02 : client: [1092] opened from 127.0.0.1:36932
+Dec 30 03:02 : client: [1092] closed
+Dec 30 03:02 : client: [1093] opened from 127.0.0.1:36936
+Dec 30 03:02 : client: [1093] closed
+Dec 30 03:02 : client: [1094] opened from 127.0.0.1:36940
+Dec 30 03:02 : client: [1094] closed
+Dec 30 03:02 : client: [1095] opened from 127.0.0.1:36944
+Dec 30 03:02 : client: [1095] closed
+Dec 30 03:02 : client: [1096] opened from 127.0.0.1:36948
+Dec 30 03:02 : client: [1096] closed
+Dec 30 03:02 : client: [1097] opened from 127.0.0.1:36952
+Dec 30 03:02 : client: [1097] closed
+Dec 30 03:02 : client: [1098] opened from 127.0.0.1:36956
+Dec 30 03:02 : client: [1098] closed
+Dec 30 03:02 : client: [1099] opened from 127.0.0.1:36960
+Dec 30 03:02 : client: [1099] closed
+Dec 30 03:02 : client: [1100] opened from 127.0.0.1:36964
+Dec 30 03:02 : client: [1100] closed
+Dec 30 03:02 : client: [1101] opened from 127.0.0.1:36968
+Dec 30 03:02 : client: [1101] closed
+Dec 30 03:02 : client: [1102] opened from 127.0.0.1:36972
+Dec 30 03:02 : client: [1102] closed
+Dec 30 03:02 : client: [1103] opened from 127.0.0.1:36976
+Dec 30 03:02 : client: [1103] closed
+Dec 30 03:02 : client: [1104] opened from 127.0.0.1:36980
+Dec 30 03:02 : client: [1104] closed
+Dec 30 03:02 : client: [1105] opened from 127.0.0.1:36984
+Dec 30 03:02 : client: [1105] closed
+Dec 30 03:02 : client: [1106] opened from 127.0.0.1:36988
+Dec 30 03:02 : client: [1106] closed
+Dec 30 03:02 : client: [1107] opened from 127.0.0.1:36992
+Dec 30 03:02 : client: [1107] closed
+Dec 30 03:02 : client: [1108] opened from 127.0.0.1:36996
+Dec 30 03:02 : client: [1108] closed
+Dec 30 03:02 : client: [1109] opened from 127.0.0.1:37000
+Dec 30 03:02 : client: [1109] closed
+Dec 30 03:02 : client: [1110] opened from 127.0.0.1:37004
+Dec 30 03:02 : client: [1110] closed
+Dec 30 03:02 : client: [1111] opened from 127.0.0.1:37008
+Dec 30 03:02 : client: [1111] closed
+Dec 30 03:02 : client: [1112] opened from 127.0.0.1:37012
+Dec 30 03:02 : client: [1112] closed
+Dec 30 03:02 : client: [1113] opened from 127.0.0.1:37016
+Dec 30 03:02 : client: [1113] closed
+Dec 30 03:02 : client: [1114] opened from 127.0.0.1:37020
+Dec 30 03:02 : client: [1114] closed
+Dec 30 03:02 : client: [1115] opened from 127.0.0.1:37024
+Dec 30 03:02 : client: [1115] closed
+Dec 30 03:02 : client: [1116] opened from 127.0.0.1:37028
+Dec 30 03:02 : client: [1116] closed
+Dec 30 03:02 : client: [1117] opened from 127.0.0.1:37032
+Dec 30 03:02 : client: [1117] closed
+Dec 30 03:02 : client: [1118] opened from 127.0.0.1:37036
+Dec 30 03:02 : client: [1118] closed
+Dec 30 03:02 : client: [1119] opened from 127.0.0.1:37040
+Dec 30 03:02 : client: [1119] closed
+Dec 30 03:02 : client: [1120] opened from 127.0.0.1:37044
+Dec 30 03:02 : client: [1120] closed
+Dec 30 03:02 : client: [1121] opened from 127.0.0.1:37048
+Dec 30 03:02 : client: [1121] closed
+Dec 30 03:02 : client: [1122] opened from 127.0.0.1:37052
+Dec 30 03:02 : client: [1122] closed
+Dec 30 03:02 : client: [1123] opened from 127.0.0.1:37056
+Dec 30 03:02 : client: [1123] closed
+Dec 30 03:02 : client: [1124] opened from 127.0.0.1:37060
+Dec 30 03:02 : client: [1124] closed
+Dec 30 03:02 : client: [1125] opened from 127.0.0.1:37064
+Dec 30 03:02 : client: [1125] closed
+Dec 30 03:02 : client: [1126] opened from 127.0.0.1:37068
+Dec 30 03:02 : client: [1126] closed
+Dec 30 03:02 : client: [1127] opened from 127.0.0.1:37072
+Dec 30 03:02 : client: [1127] closed
+Dec 30 03:02 : client: [1128] opened from 127.0.0.1:37076
+Dec 30 03:02 : client: [1128] closed
+Dec 30 03:02 : client: [1129] opened from 127.0.0.1:37080
+Dec 30 03:02 : client: [1129] closed
+Dec 30 03:02 : client: [1130] opened from 127.0.0.1:37084
+Dec 30 03:02 : client: [1130] closed
+Dec 30 03:02 : client: [1131] opened from 127.0.0.1:37088
+Dec 30 03:02 : client: [1131] closed
+Dec 30 03:02 : client: [1132] opened from 127.0.0.1:37092
+Dec 30 03:02 : client: [1132] closed
+Dec 30 03:02 : client: [1133] opened from 127.0.0.1:37096
+Dec 30 03:02 : client: [1133] closed
+Dec 30 03:02 : client: [1134] opened from 127.0.0.1:37100
+Dec 30 03:02 : client: [1134] closed
+Dec 30 03:02 : client: [1135] opened from 127.0.0.1:37104
+Dec 30 03:02 : client: [1135] closed
+Dec 30 03:02 : client: [1136] opened from 127.0.0.1:37108
+Dec 30 03:02 : client: [1136] closed
+Dec 30 03:02 : client: [1137] opened from 127.0.0.1:37112
+Dec 30 03:02 : client: [1137] closed
+Dec 30 03:02 : client: [1138] opened from 127.0.0.1:37116
+Dec 30 03:02 : client: [1138] closed
+Dec 30 03:02 : client: [1139] opened from 127.0.0.1:37120
+Dec 30 03:02 : client: [1139] closed
+Dec 30 03:02 : client: [1140] opened from 127.0.0.1:37124
+Dec 30 03:02 : client: [1140] closed
+Dec 30 03:02 : client: [1141] opened from 127.0.0.1:37128
+Dec 30 03:02 : client: [1141] closed
+Dec 30 03:02 : client: [1142] opened from 127.0.0.1:37132
+Dec 30 03:02 : client: [1142] closed
+Dec 30 03:02 : player: played "BONES - PaleEarnhardt.mp3"
+Dec 30 03:02 : client: [1143] opened from 127.0.0.1:37136
+Dec 30 03:02 : client: [1143] closed
+Dec 30 03:02 : client: [1144] opened from 127.0.0.1:37140
+Dec 30 03:02 : client: [1144] closed
+Dec 30 03:02 : client: [1145] opened from 127.0.0.1:37144
+Dec 30 03:02 : client: [1145] closed
+Dec 30 03:02 : client: [1146] opened from 127.0.0.1:37148
+Dec 30 03:02 : client: [1146] closed
+Dec 30 03:02 : client: [1147] opened from 127.0.0.1:37152
+Dec 30 03:02 : client: [1147] closed
+Dec 30 03:02 : client: [1148] opened from 127.0.0.1:37156
+Dec 30 03:02 : client: [1148] closed
+Dec 30 03:03 : client: [1149] opened from 127.0.0.1:37160
+Dec 30 03:03 : client: [1149] closed
+Dec 30 03:03 : client: [1150] opened from 127.0.0.1:37164
+Dec 30 03:03 : client: [1150] closed
+Dec 30 03:03 : client: [1151] opened from 127.0.0.1:37168
+Dec 30 03:03 : client: [1151] closed
+Dec 30 03:03 : client: [1152] opened from 127.0.0.1:37172
+Dec 30 03:03 : client: [1152] closed
+Dec 30 03:03 : client: [1153] opened from 127.0.0.1:37176
+Dec 30 03:03 : client: [1153] closed
+Dec 30 03:03 : client: [1154] opened from 127.0.0.1:37180
+Dec 30 03:03 : client: [1154] closed
+Dec 30 03:03 : client: [1155] opened from 127.0.0.1:37184
+Dec 30 03:03 : client: [1155] closed
+Dec 30 03:03 : client: [1156] opened from 127.0.0.1:37188
+Dec 30 03:03 : client: [1156] closed
+Dec 30 03:03 : client: [1157] opened from 127.0.0.1:37192
+Dec 30 03:03 : client: [1157] closed
+Dec 30 03:03 : client: [1158] opened from 127.0.0.1:37196
+Dec 30 03:03 : client: [1158] closed
+Dec 30 03:03 : client: [1159] opened from 127.0.0.1:37200
+Dec 30 03:03 : client: [1159] closed
+Dec 30 03:03 : client: [1160] opened from 127.0.0.1:37204
+Dec 30 03:03 : client: [1160] closed
+Dec 30 03:03 : client: [1161] opened from 127.0.0.1:37208
+Dec 30 03:03 : client: [1161] closed
+Dec 30 03:03 : client: [1162] opened from 127.0.0.1:37212
+Dec 30 03:03 : client: [1162] closed
+Dec 30 03:03 : client: [1163] opened from 127.0.0.1:37216
+Dec 30 03:03 : client: [1163] closed
+Dec 30 03:03 : client: [1164] opened from 127.0.0.1:37220
+Dec 30 03:03 : client: [1164] closed
+Dec 30 03:03 : client: [1165] opened from 127.0.0.1:37224
+Dec 30 03:03 : client: [1165] closed
+Dec 30 03:03 : client: [1166] opened from 127.0.0.1:37228
+Dec 30 03:03 : client: [1166] closed
+Dec 30 03:03 : client: [1167] opened from 127.0.0.1:37232
+Dec 30 03:03 : client: [1167] closed
+Dec 30 03:03 : client: [1168] opened from 127.0.0.1:37236
+Dec 30 03:03 : client: [1168] closed
+Dec 30 03:03 : client: [1169] opened from 127.0.0.1:37240
+Dec 30 03:03 : client: [1169] closed
+Dec 30 03:03 : client: [1170] opened from 127.0.0.1:37244
+Dec 30 03:03 : client: [1170] closed
+Dec 30 03:03 : client: [1171] opened from 127.0.0.1:37248
+Dec 30 03:03 : client: [1171] closed
+Dec 30 03:03 : client: [1172] opened from 127.0.0.1:37252
+Dec 30 03:03 : client: [1172] closed
+Dec 30 03:03 : client: [1173] opened from 127.0.0.1:37256
+Dec 30 03:03 : client: [1173] closed
+Dec 30 03:03 : client: [1174] opened from 127.0.0.1:37260
+Dec 30 03:03 : client: [1174] closed
+Dec 30 03:03 : client: [1175] opened from 127.0.0.1:37264
+Dec 30 03:03 : client: [1175] closed
+Dec 30 03:03 : client: [1176] opened from 127.0.0.1:37268
+Dec 30 03:03 : client: [1176] closed
+Dec 30 03:03 : client: [1177] opened from 127.0.0.1:37272
+Dec 30 03:03 : client: [1177] closed
+Dec 30 03:03 : client: [1178] opened from 127.0.0.1:37276
+Dec 30 03:03 : client: [1178] closed
+Dec 30 03:03 : client: [1179] opened from 127.0.0.1:37280
+Dec 30 03:03 : client: [1179] closed
+Dec 30 03:03 : client: [1180] opened from 127.0.0.1:37284
+Dec 30 03:03 : client: [1180] closed
+Dec 30 03:03 : client: [1181] opened from 127.0.0.1:37288
+Dec 30 03:03 : client: [1181] closed
+Dec 30 03:03 : client: [1182] opened from 127.0.0.1:37292
+Dec 30 03:03 : client: [1182] closed
+Dec 30 03:03 : client: [1183] opened from 127.0.0.1:37296
+Dec 30 03:03 : client: [1183] closed
+Dec 30 03:03 : client: [1184] opened from 127.0.0.1:37300
+Dec 30 03:03 : client: [1184] closed
+Dec 30 03:03 : client: [1185] opened from 127.0.0.1:37304
+Dec 30 03:03 : client: [1185] closed
+Dec 30 03:03 : client: [1186] opened from 127.0.0.1:37308
+Dec 30 03:03 : client: [1186] closed
+Dec 30 03:03 : client: [1187] opened from 127.0.0.1:37312
+Dec 30 03:03 : client: [1187] closed
+Dec 30 03:03 : client: [1188] opened from 127.0.0.1:37316
+Dec 30 03:03 : client: [1188] closed
+Dec 30 03:03 : client: [1189] opened from 127.0.0.1:37320
+Dec 30 03:03 : client: [1189] closed
+Dec 30 03:03 : client: [1190] opened from 127.0.0.1:37324
+Dec 30 03:03 : client: [1190] closed
+Dec 30 03:03 : client: [1191] opened from 127.0.0.1:37328
+Dec 30 03:03 : client: [1191] closed
+Dec 30 03:03 : client: [1192] opened from 127.0.0.1:37332
+Dec 30 03:03 : client: [1192] closed
+Dec 30 03:03 : client: [1193] opened from 127.0.0.1:37336
+Dec 30 03:03 : client: [1193] closed
+Dec 30 03:03 : client: [1194] opened from 127.0.0.1:37340
+Dec 30 03:03 : client: [1194] closed
+Dec 30 03:03 : client: [1195] opened from 127.0.0.1:37344
+Dec 30 03:03 : client: [1195] closed
+Dec 30 03:03 : client: [1196] opened from 127.0.0.1:37348
+Dec 30 03:03 : client: [1196] closed
+Dec 30 03:03 : client: [1197] opened from 127.0.0.1:37352
+Dec 30 03:03 : client: [1197] closed
+Dec 30 03:03 : client: [1198] opened from 127.0.0.1:37356
+Dec 30 03:03 : client: [1198] closed
+Dec 30 03:03 : client: [1199] opened from 127.0.0.1:37360
+Dec 30 03:03 : client: [1199] closed
+Dec 30 03:03 : client: [1200] opened from 127.0.0.1:37364
+Dec 30 03:03 : client: [1200] closed
+Dec 30 03:03 : client: [1201] opened from 127.0.0.1:37368
+Dec 30 03:03 : client: [1201] closed
+Dec 30 03:03 : client: [1202] opened from 127.0.0.1:37372
+Dec 30 03:03 : client: [1202] closed
+Dec 30 03:03 : client: [1203] opened from 127.0.0.1:37376
+Dec 30 03:03 : client: [1203] closed
+Dec 30 03:03 : client: [1204] opened from 127.0.0.1:37380
+Dec 30 03:03 : client: [1204] closed
+Dec 30 03:03 : client: [1205] opened from 127.0.0.1:37384
+Dec 30 03:03 : client: [1205] closed
+Dec 30 03:03 : client: [1206] opened from 127.0.0.1:37388
+Dec 30 03:03 : client: [1206] closed
+Dec 30 03:03 : client: [1207] opened from 127.0.0.1:37392
+Dec 30 03:03 : client: [1207] closed
+Dec 30 03:03 : client: [1208] opened from 127.0.0.1:37396
+Dec 30 03:03 : client: [1208] closed
+Dec 30 03:03 : client: [1209] opened from 127.0.0.1:37400
+Dec 30 03:03 : client: [1209] closed
+Dec 30 03:03 : client: [1210] opened from 127.0.0.1:37404
+Dec 30 03:03 : client: [1210] closed
+Dec 30 03:03 : client: [1211] opened from 127.0.0.1:37408
+Dec 30 03:03 : client: [1211] closed
+Dec 30 03:03 : client: [1212] opened from 127.0.0.1:37412
+Dec 30 03:03 : client: [1212] closed
+Dec 30 03:03 : client: [1213] opened from 127.0.0.1:37416
+Dec 30 03:03 : client: [1213] closed
+Dec 30 03:03 : client: [1214] opened from 127.0.0.1:37420
+Dec 30 03:03 : client: [1214] closed
