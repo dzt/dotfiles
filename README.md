@@ -20,4 +20,5 @@
 * Bar: i3bar w/ Conky [(screenshot)](shots/6.png)
 * Slack Client: [plaidchat](https://github.com/plaidchat/plaidchat)
 * IRC Client: [weechat](https://weechat.org/)
-* Screenshot Tool: [shutter](https://github.com/dzt/dotfiles)
+* Screenshot Tool: [shutter](https://aur.archlinux.org/packages/shutter-bzr/)
+* Torrent Client: [Deluge](http://deluge-torrent.org/)
