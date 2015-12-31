@@ -22,3 +22,4 @@
 * IRC Client: [weechat](https://weechat.org/)
 * Screenshot Tool: [shutter](https://aur.archlinux.org/packages/shutter-bzr/)
 * Torrent Client: [Deluge](http://deluge-torrent.org/)
+* Video Player: [mpv](https://wiki.archlinux.org/index.php/Mpv)
